@@ -8,5 +8,8 @@ Thumbs.db
 _curator/chroma/
 _curator/embeddings_cache/
 _curator/.index_state.json
+# Python 캐시
+__pycache__/
+*.pyc
 # Summaries는 vault에 포함 (git tracked)
 # _summaries/  ← 주석 (포함)
