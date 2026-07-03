@@ -1349,3 +1349,18 @@
 [2026-07-03T18:03:37] === intelligent sync END ===
 
 [2026-07-03T18:03:38] WARN: OPENROUTER_API_KEY not set, LLM skip
+[2026-07-03T18:16:12] === intelligent sync START (dry=True, skip_push=True, rebuild=False) ===
+[2026-07-03T18:16:16]   scanned 206 files in Docs/
+[2026-07-03T18:16:16] [1/5] file diff + copy
+[2026-07-03T18:16:16]   copied=0, skipped=206, errors=0
+[2026-07-03T18:16:16] [2/5] wbs_to_md
+[2026-07-03T18:16:16] [3/5] LLM summarize + tag
+[2026-07-03T18:16:16]   0 .md files to summarize
+[2026-07-03T18:16:16]   summarized=0
+[2026-07-03T18:16:16] [4/5] Chroma index
+[2026-07-03T18:16:16]   indexed=0
+[2026-07-03T18:16:16] [5/5] git commit + push
+[2026-07-03T18:16:16]   push SKIPPED
+[2026-07-03T18:16:16] === intelligent sync END ===
+
+[2026-07-03T18:16:18] WARN: OPENROUTER_API_KEY not set, LLM skip
