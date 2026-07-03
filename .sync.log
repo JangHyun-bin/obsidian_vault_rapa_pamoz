@@ -1,0 +1,1216 @@
+[2026-07-03T17:40:27] === daily sync START (dry_run=True, skip_push=True, skip_wbs=False) ===
+[2026-07-03T17:40:27] [1/3] file sync
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\index.md → _inbox\Corpus\index.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\index.zip → _inbox\Corpus\index.zip
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\MOC.md → _inbox\Corpus\MOC.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\README.md → _inbox\Corpus\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\.obsidian\templates\adr.md → _inbox\Corpus\.obsidian\templates\adr.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\.obsidian\templates\meeting.md → _inbox\Corpus\.obsidian\templates\meeting.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\.obsidian\templates\spec.md → _inbox\Corpus\.obsidian\templates\spec.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\docs\superpowers\nas-mcp-deployment.md → _inbox\Corpus\docs\superpowers\nas-mcp-deployment.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\docs\superpowers\phase-a-c-followup.md → _inbox\Corpus\docs\superpowers\phase-a-c-followup.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\docs\superpowers\plans\2026-05-28-corpus-migration.md → _inbox\Corpus\docs\superpowers\plans\2026-05-28-corpus-migration.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\docs\superpowers\specs\2026-05-28-corpus-design.md → _inbox\Corpus\docs\superpowers\specs\2026-05-28-corpus-design.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\domain\sdk-개발-사전문의.md → _inbox\Corpus\domain\sdk-개발-사전문의.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\domain\위치기반서비스-신고의무.md → _inbox\Corpus\domain\위치기반서비스-신고의무.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\evidence\positioning-sota-evidence.md → _inbox\Corpus\evidence\positioning-sota-evidence.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\meetings\2026-05-13-개발협의-아젠다-v1.md → _inbox\Corpus\meetings\2026-05-13-개발협의-아젠다-v1.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\meetings\2026-05-14-개발협의-아젠다-v2.md → _inbox\Corpus\meetings\2026-05-14-개발협의-아젠다-v2.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\meetings\2026-05-18-스마트병원-AI-회의록.md → _inbox\Corpus\meetings\2026-05-18-스마트병원-AI-회의록.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\README.md → _inbox\Corpus\scripts\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.pytest_cache\README.md → _inbox\Corpus\scripts\.pytest_cache\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\docx\templates\default.docx → _inbox\Corpus\scripts\.venv\Lib\site-packages\docx\templates\default.docx
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\docx\templates\default-docx-template\docProps\thumbnail.jpeg → _inbox\Corpus\scripts\.venv\Lib\site-packages\docx\templates\default-docx-template\docProps\thumbnail.jpeg
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\httpcore-1.0.9.dist-info\licenses\LICENSE.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\httpcore-1.0.9.dist-info\licenses\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\httpx-0.28.1.dist-info\licenses\LICENSE.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\httpx-0.28.1.dist-info\licenses\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\huggingface_hub\templates\datasetcard_template.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\huggingface_hub\templates\datasetcard_template.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\huggingface_hub\templates\modelcard_template.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\huggingface_hub\templates\modelcard_template.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\idna-3.16.dist-info\licenses\LICENSE.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\idna-3.16.dist-info\licenses\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_display_complex.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_display_complex.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_display_empty_graph.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_display_empty_graph.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_display_house_with_colors.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_display_house_with_colors.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_display_labels_and_colors.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_display_labels_and_colors.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_display_shortest_path.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_display_shortest_path.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_house_with_colors.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\networkx\drawing\tests\baseline\test_house_with_colors.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\numpy\random\LICENSE.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\numpy\random\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\olefile\doc\API.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\olefile\doc\API.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\olefile\doc\Contribute.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\olefile\doc\Contribute.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\olefile\doc\Home.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\olefile\doc\Home.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\olefile\doc\Install.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\olefile\doc\Install.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\olefile\doc\License.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\olefile\doc\License.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\olefile\doc\OLE_Overview.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\olefile\doc\OLE_Overview.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\olefile\doc\OLE_VBA_sample.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\olefile\doc\OLE_VBA_sample.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\openai\resources\conversations\api.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\openai\resources\conversations\api.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\openai\resources\realtime\api.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\openai\resources\realtime\api.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\openai\resources\responses\api.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\openai\resources\responses\api.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\openai\resources\webhooks\api.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\openai\resources\webhooks\api.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\pip\_vendor\idna\LICENSE.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\pip\_vendor\idna\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\pip-26.1.1.dist-info\licenses\src\pip\_vendor\idna\LICENSE.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\pip-26.1.1.dist-info\licenses\src\pip\_vendor\idna\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\scipy\fft\_pocketfft\LICENSE.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\scipy\fft\_pocketfft\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\scipy\ndimage\tests\dots.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\scipy\ndimage\tests\dots.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\sentence_transformers\model_card_template.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\sentence_transformers\model_card_template.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\sklearn\datasets\images\china.jpg → _inbox\Corpus\scripts\.venv\Lib\site-packages\sklearn\datasets\images\china.jpg
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\sklearn\datasets\images\flower.jpg → _inbox\Corpus\scripts\.venv\Lib\site-packages\sklearn\datasets\images\flower.jpg
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\sklearn\externals\array_api_compat\README.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\sklearn\externals\array_api_compat\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\sklearn\externals\array_api_extra\README.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\sklearn\externals\array_api_extra\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\soupsieve-2.8.4.dist-info\licenses\LICENSE.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\soupsieve-2.8.4.dist-info\licenses\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\starlette-0.38.6.dist-info\licenses\LICENSE.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\starlette-0.38.6.dist-info\licenses\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\sympy\plotting\tests\test_region_and.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\sympy\plotting\tests\test_region_and.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\sympy\plotting\tests\test_region_not.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\sympy\plotting\tests\test_region_not.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\sympy\plotting\tests\test_region_or.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\sympy\plotting\tests\test_region_or.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\sympy\plotting\tests\test_region_xor.png → _inbox\Corpus\scripts\.venv\Lib\site-packages\sympy\plotting\tests\test_region_xor.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\torchgen\packaged\autograd\README.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\torchgen\packaged\autograd\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\.venv\Lib\site-packages\uvicorn-0.30.6.dist-info\licenses\LICENSE.md → _inbox\Corpus\scripts\.venv\Lib\site-packages\uvicorn-0.30.6.dist-info\licenses\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\ingest\tests\fixtures\sample.docx → _inbox\Corpus\scripts\ingest\tests\fixtures\sample.docx
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0001-test.md → _inbox\Corpus\scripts\tests\fixtures\mini_vault\decisions\0001-test.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0002-missing-type.md → _inbox\Corpus\scripts\tests\fixtures\mini_vault\decisions\0002-missing-type.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0003-old.md → _inbox\Corpus\scripts\tests\fixtures\mini_vault\decisions\0003-old.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0004-new.md → _inbox\Corpus\scripts\tests\fixtures\mini_vault\decisions\0004-new.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\tests\fixtures\mini_vault\_raw\cited.pdf → _inbox\Corpus\scripts\tests\fixtures\mini_vault\_raw\cited.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\scripts\tests\fixtures\mini_vault\_raw\orphan.pdf → _inbox\Corpus\scripts\tests\fixtures\mini_vault\_raw\orphan.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\_raw\260513_Domain_RAG_ARCHITECTURE.md → _inbox\Corpus\_raw\260513_Domain_RAG_ARCHITECTURE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\_raw\260518_RAPA_R&R_정의서_v2_FAMOZ.docx → _inbox\Corpus\_raw\260518_RAPA_R&R_정의서_v2_FAMOZ.docx
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\_raw\260518_RAPA_위치기반서비스_검토.docx → _inbox\Corpus\_raw\260518_RAPA_위치기반서비스_검토.docx
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\_raw\260518_위치기반서비스_신고의무_검토_v1.0.docx → _inbox\Corpus\_raw\260518_위치기반서비스_신고의무_검토_v1.0.docx
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\_raw\260526_SDK개발_사전문의_.docx → _inbox\Corpus\_raw\260526_SDK개발_사전문의_.docx
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\_raw\camera_free_indoor_localization_research_roadmap.md → _inbox\Corpus\_raw\camera_free_indoor_localization_research_roadmap.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\_raw\paper_matrix.ko.md → _inbox\Corpus\_raw\paper_matrix.ko.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\_raw\스마트병원AI_시스템구성도_병원보고용_설명문서_0525.pdf → _inbox\Corpus\_raw\스마트병원AI_시스템구성도_병원보고용_설명문서_0525.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Corpus\_raw\전남대학교병원_푸시서비스_개발가이드.docx → _inbox\Corpus\_raw\전남대학교병원_푸시서비스_개발가이드.docx
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\CODE_OF_CONDUCT.md → _inbox\Corpus-Site\CODE_OF_CONDUCT.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\DEPLOY.md → _inbox\Corpus-Site\DEPLOY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\README.md → _inbox\Corpus-Site\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\.github\pull_request_template.md → _inbox\Corpus-Site\.github\pull_request_template.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\.github\ISSUE_TEMPLATE\bug_report.md → _inbox\Corpus-Site\.github\ISSUE_TEMPLATE\bug_report.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\.github\ISSUE_TEMPLATE\feature_request.md → _inbox\Corpus-Site\.github\ISSUE_TEMPLATE\feature_request.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\authoring content.md → _inbox\Corpus-Site\docs\authoring content.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\build.md → _inbox\Corpus-Site\docs\build.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\configuration.md → _inbox\Corpus-Site\docs\configuration.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\hosting.md → _inbox\Corpus-Site\docs\hosting.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\index.md → _inbox\Corpus-Site\docs\index.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\layout-components.md → _inbox\Corpus-Site\docs\layout-components.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\layout.md → _inbox\Corpus-Site\docs\layout.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\migrating from Quartz 3.md → _inbox\Corpus-Site\docs\migrating from Quartz 3.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\philosophy.md → _inbox\Corpus-Site\docs\philosophy.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\setting up your GitHub repository.md → _inbox\Corpus-Site\docs\setting up your GitHub repository.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\showcase.md → _inbox\Corpus-Site\docs\showcase.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\upgrading.md → _inbox\Corpus-Site\docs\upgrading.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\advanced\architecture.md → _inbox\Corpus-Site\docs\advanced\architecture.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\advanced\creating components.md → _inbox\Corpus-Site\docs\advanced\creating components.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\advanced\index.md → _inbox\Corpus-Site\docs\advanced\index.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\docs\advanced\making plugins.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\advanced\paths.md → _inbox\Corpus-Site\docs\advanced\paths.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\backlinks.md → _inbox\Corpus-Site\docs\features\backlinks.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\breadcrumbs.md → _inbox\Corpus-Site\docs\features\breadcrumbs.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\callouts.md → _inbox\Corpus-Site\docs\features\callouts.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\Citations.md → _inbox\Corpus-Site\docs\features\Citations.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\comments.md → _inbox\Corpus-Site\docs\features\comments.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\darkmode.md → _inbox\Corpus-Site\docs\features\darkmode.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\Docker Support.md → _inbox\Corpus-Site\docs\features\Docker Support.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\explorer.md → _inbox\Corpus-Site\docs\features\explorer.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\folder and tag listings.md → _inbox\Corpus-Site\docs\features\folder and tag listings.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\full-text search.md → _inbox\Corpus-Site\docs\features\full-text search.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\graph view.md → _inbox\Corpus-Site\docs\features\graph view.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\i18n.md → _inbox\Corpus-Site\docs\features\i18n.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\index.md → _inbox\Corpus-Site\docs\features\index.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\Latex.md → _inbox\Corpus-Site\docs\features\Latex.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\Mermaid diagrams.md → _inbox\Corpus-Site\docs\features\Mermaid diagrams.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\Obsidian compatibility.md → _inbox\Corpus-Site\docs\features\Obsidian compatibility.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\OxHugo compatibility.md → _inbox\Corpus-Site\docs\features\OxHugo compatibility.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\popover previews.md → _inbox\Corpus-Site\docs\features\popover previews.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\private pages.md → _inbox\Corpus-Site\docs\features\private pages.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\reader mode.md → _inbox\Corpus-Site\docs\features\reader mode.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\recent notes.md → _inbox\Corpus-Site\docs\features\recent notes.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\Roam Research compatibility.md → _inbox\Corpus-Site\docs\features\Roam Research compatibility.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\RSS Feed.md → _inbox\Corpus-Site\docs\features\RSS Feed.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\social images.md → _inbox\Corpus-Site\docs\features\social images.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\SPA Routing.md → _inbox\Corpus-Site\docs\features\SPA Routing.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\syntax highlighting.md → _inbox\Corpus-Site\docs\features\syntax highlighting.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\table of contents.md → _inbox\Corpus-Site\docs\features\table of contents.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\upcoming features.md → _inbox\Corpus-Site\docs\features\upcoming features.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\features\wikilinks.md → _inbox\Corpus-Site\docs\features\wikilinks.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\custom-social-image-preview-dark.png → _inbox\Corpus-Site\docs\images\custom-social-image-preview-dark.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\custom-social-image-preview-light.png → _inbox\Corpus-Site\docs\images\custom-social-image-preview-light.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\dns records.png → _inbox\Corpus-Site\docs\images\dns records.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\giscus-discussion.png → _inbox\Corpus-Site\docs\images\giscus-discussion.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\giscus-example.png → _inbox\Corpus-Site\docs\images\giscus-example.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\giscus-repo.png → _inbox\Corpus-Site\docs\images\giscus-repo.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\giscus-results.png → _inbox\Corpus-Site\docs\images\giscus-results.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\github-init-repo-options.png → _inbox\Corpus-Site\docs\images\github-init-repo-options.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\github-quick-setup.png → _inbox\Corpus-Site\docs\images\github-quick-setup.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\quartz transform pipeline.png → _inbox\Corpus-Site\docs\images\quartz transform pipeline.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\quartz-layout-desktop.png → _inbox\Corpus-Site\docs\images\quartz-layout-desktop.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\quartz-layout-mobile.png → _inbox\Corpus-Site\docs\images\quartz-layout-mobile.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\quartz-layout-tablet.png → _inbox\Corpus-Site\docs\images\quartz-layout-tablet.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\social-image-preview-dark.png → _inbox\Corpus-Site\docs\images\social-image-preview-dark.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\images\social-image-preview-light.png → _inbox\Corpus-Site\docs\images\social-image-preview-light.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\AliasRedirects.md → _inbox\Corpus-Site\docs\plugins\AliasRedirects.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\Assets.md → _inbox\Corpus-Site\docs\plugins\Assets.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\Citations.md → _inbox\Corpus-Site\docs\plugins\Citations.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\CNAME.md → _inbox\Corpus-Site\docs\plugins\CNAME.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\ComponentResources.md → _inbox\Corpus-Site\docs\plugins\ComponentResources.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\ContentIndex.md → _inbox\Corpus-Site\docs\plugins\ContentIndex.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\ContentPage.md → _inbox\Corpus-Site\docs\plugins\ContentPage.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\CrawlLinks.md → _inbox\Corpus-Site\docs\plugins\CrawlLinks.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\CreatedModifiedDate.md → _inbox\Corpus-Site\docs\plugins\CreatedModifiedDate.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\CustomOgImages.md → _inbox\Corpus-Site\docs\plugins\CustomOgImages.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\Description.md → _inbox\Corpus-Site\docs\plugins\Description.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\ExplicitPublish.md → _inbox\Corpus-Site\docs\plugins\ExplicitPublish.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\Favicon.md → _inbox\Corpus-Site\docs\plugins\Favicon.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\FolderPage.md → _inbox\Corpus-Site\docs\plugins\FolderPage.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\docs\plugins\Frontmatter.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\GitHubFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\GitHubFlavoredMarkdown.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\HardLineBreaks.md → _inbox\Corpus-Site\docs\plugins\HardLineBreaks.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\index.md → _inbox\Corpus-Site\docs\plugins\index.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\Latex.md → _inbox\Corpus-Site\docs\plugins\Latex.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\NotFoundPage.md → _inbox\Corpus-Site\docs\plugins\NotFoundPage.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\ObsidianFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\ObsidianFlavoredMarkdown.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\OxHugoFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\OxHugoFlavoredMarkdown.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\RemoveDrafts.md → _inbox\Corpus-Site\docs\plugins\RemoveDrafts.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\RoamFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\RoamFlavoredMarkdown.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\Static.md → _inbox\Corpus-Site\docs\plugins\Static.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\SyntaxHighlighting.md → _inbox\Corpus-Site\docs\plugins\SyntaxHighlighting.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\TableOfContents.md → _inbox\Corpus-Site\docs\plugins\TableOfContents.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\plugins\TagPage.md → _inbox\Corpus-Site\docs\plugins\TagPage.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\tags\component.md → _inbox\Corpus-Site\docs\tags\component.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\docs\tags\plugin.md → _inbox\Corpus-Site\docs\tags\plugin.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@bufbuild\protobuf\README.md → _inbox\Corpus-Site\node_modules\@bufbuild\protobuf\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\core\LICENSE.md → _inbox\Corpus-Site\node_modules\@citation-js\core\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\core\README.md → _inbox\Corpus-Site\node_modules\@citation-js\core\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\date\README.md → _inbox\Corpus-Site\node_modules\@citation-js\date\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\name\CHANGELOG.md → _inbox\Corpus-Site\node_modules\@citation-js\name\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\name\README.md → _inbox\Corpus-Site\node_modules\@citation-js\name\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\plugin-bibjson\LICENSE.md → _inbox\Corpus-Site\node_modules\@citation-js\plugin-bibjson\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\plugin-bibjson\README.md → _inbox\Corpus-Site\node_modules\@citation-js\plugin-bibjson\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\plugin-bibtex\LICENSE.md → _inbox\Corpus-Site\node_modules\@citation-js\plugin-bibtex\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\plugin-bibtex\README.md → _inbox\Corpus-Site\node_modules\@citation-js\plugin-bibtex\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\plugin-csl\LICENSE.md → _inbox\Corpus-Site\node_modules\@citation-js\plugin-csl\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@citation-js\plugin-csl\README.md → _inbox\Corpus-Site\node_modules\@citation-js\plugin-csl\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@clack\core\CHANGELOG.md → _inbox\Corpus-Site\node_modules\@clack\core\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@clack\core\README.md → _inbox\Corpus-Site\node_modules\@clack\core\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@clack\prompts\CHANGELOG.md → _inbox\Corpus-Site\node_modules\@clack\prompts\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@clack\prompts\README.md → _inbox\Corpus-Site\node_modules\@clack\prompts\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@esbuild\win32-x64\README.md → _inbox\Corpus-Site\node_modules\@esbuild\win32-x64\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@floating-ui\core\README.md → _inbox\Corpus-Site\node_modules\@floating-ui\core\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@floating-ui\dom\README.md → _inbox\Corpus-Site\node_modules\@floating-ui\dom\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@floating-ui\utils\README.md → _inbox\Corpus-Site\node_modules\@floating-ui\utils\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@img\sharp-win32-x64\README.md → _inbox\Corpus-Site\node_modules\@img\sharp-win32-x64\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@isaacs\balanced-match\LICENSE.md → _inbox\Corpus-Site\node_modules\@isaacs\balanced-match\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@isaacs\balanced-match\README.md → _inbox\Corpus-Site\node_modules\@isaacs\balanced-match\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@isaacs\brace-expansion\README.md → _inbox\Corpus-Site\node_modules\@isaacs\brace-expansion\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@myriaddreamin\rehype-typst\README.md → _inbox\Corpus-Site\node_modules\@myriaddreamin\rehype-typst\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@myriaddreamin\typst-ts-node-compiler\README.md → _inbox\Corpus-Site\node_modules\@myriaddreamin\typst-ts-node-compiler\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@myriaddreamin\typst-ts-node-compiler-win32-x64-msvc\README.md → _inbox\Corpus-Site\node_modules\@myriaddreamin\typst-ts-node-compiler-win32-x64-msvc\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@napi-rs\simple-git\README.md → _inbox\Corpus-Site\node_modules\@napi-rs\simple-git\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@napi-rs\simple-git-win32-x64-msvc\README.md → _inbox\Corpus-Site\node_modules\@napi-rs\simple-git-win32-x64-msvc\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@nodelib\fs.scandir\README.md → _inbox\Corpus-Site\node_modules\@nodelib\fs.scandir\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@nodelib\fs.stat\README.md → _inbox\Corpus-Site\node_modules\@nodelib\fs.stat\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@nodelib\fs.walk\README.md → _inbox\Corpus-Site\node_modules\@nodelib\fs.walk\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@pixi\colord\README.md → _inbox\Corpus-Site\node_modules\@pixi\colord\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@shikijs\core\README.md → _inbox\Corpus-Site\node_modules\@shikijs\core\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@shikijs\engine-javascript\README.md → _inbox\Corpus-Site\node_modules\@shikijs\engine-javascript\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@shikijs\engine-oniguruma\README.md → _inbox\Corpus-Site\node_modules\@shikijs\engine-oniguruma\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@shikijs\langs\README.md → _inbox\Corpus-Site\node_modules\@shikijs\langs\README.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\node_modules\@shikijs\themes\README.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@shikijs\types\README.md → _inbox\Corpus-Site\node_modules\@shikijs\types\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@shikijs\vscode-textmate\LICENSE.md → _inbox\Corpus-Site\node_modules\@shikijs\vscode-textmate\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@shikijs\vscode-textmate\README.md → _inbox\Corpus-Site\node_modules\@shikijs\vscode-textmate\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@shuding\opentype.js\README.md → _inbox\Corpus-Site\node_modules\@shuding\opentype.js\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@shuding\opentype.js\RELEASES.md → _inbox\Corpus-Site\node_modules\@shuding\opentype.js\RELEASES.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@sindresorhus\merge-streams\readme.md → _inbox\Corpus-Site\node_modules\@sindresorhus\merge-streams\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@tweenjs\tween.js\README.md → _inbox\Corpus-Site\node_modules\@tweenjs\tween.js\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\css-font-loading-module\README.md → _inbox\Corpus-Site\node_modules\@types\css-font-loading-module\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3\README.md → _inbox\Corpus-Site\node_modules\@types\d3\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-array\README.md → _inbox\Corpus-Site\node_modules\@types\d3-array\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-axis\README.md → _inbox\Corpus-Site\node_modules\@types\d3-axis\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-brush\README.md → _inbox\Corpus-Site\node_modules\@types\d3-brush\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-chord\README.md → _inbox\Corpus-Site\node_modules\@types\d3-chord\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-color\README.md → _inbox\Corpus-Site\node_modules\@types\d3-color\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-contour\README.md → _inbox\Corpus-Site\node_modules\@types\d3-contour\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-delaunay\README.md → _inbox\Corpus-Site\node_modules\@types\d3-delaunay\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-dispatch\README.md → _inbox\Corpus-Site\node_modules\@types\d3-dispatch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-drag\README.md → _inbox\Corpus-Site\node_modules\@types\d3-drag\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-dsv\README.md → _inbox\Corpus-Site\node_modules\@types\d3-dsv\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-ease\README.md → _inbox\Corpus-Site\node_modules\@types\d3-ease\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-fetch\README.md → _inbox\Corpus-Site\node_modules\@types\d3-fetch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-force\README.md → _inbox\Corpus-Site\node_modules\@types\d3-force\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-format\README.md → _inbox\Corpus-Site\node_modules\@types\d3-format\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-geo\README.md → _inbox\Corpus-Site\node_modules\@types\d3-geo\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-hierarchy\README.md → _inbox\Corpus-Site\node_modules\@types\d3-hierarchy\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-interpolate\README.md → _inbox\Corpus-Site\node_modules\@types\d3-interpolate\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-path\README.md → _inbox\Corpus-Site\node_modules\@types\d3-path\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-polygon\README.md → _inbox\Corpus-Site\node_modules\@types\d3-polygon\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-quadtree\README.md → _inbox\Corpus-Site\node_modules\@types\d3-quadtree\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-random\README.md → _inbox\Corpus-Site\node_modules\@types\d3-random\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-scale\README.md → _inbox\Corpus-Site\node_modules\@types\d3-scale\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-scale-chromatic\README.md → _inbox\Corpus-Site\node_modules\@types\d3-scale-chromatic\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-selection\README.md → _inbox\Corpus-Site\node_modules\@types\d3-selection\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-shape\README.md → _inbox\Corpus-Site\node_modules\@types\d3-shape\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-time\README.md → _inbox\Corpus-Site\node_modules\@types\d3-time\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-time-format\README.md → _inbox\Corpus-Site\node_modules\@types\d3-time-format\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-timer\README.md → _inbox\Corpus-Site\node_modules\@types\d3-timer\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-transition\README.md → _inbox\Corpus-Site\node_modules\@types\d3-transition\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\d3-zoom\README.md → _inbox\Corpus-Site\node_modules\@types\d3-zoom\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\debug\README.md → _inbox\Corpus-Site\node_modules\@types\debug\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\earcut\README.md → _inbox\Corpus-Site\node_modules\@types\earcut\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\estree\README.md → _inbox\Corpus-Site\node_modules\@types\estree\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\estree-jsx\README.md → _inbox\Corpus-Site\node_modules\@types\estree-jsx\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\geojson\README.md → _inbox\Corpus-Site\node_modules\@types\geojson\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\hast\README.md → _inbox\Corpus-Site\node_modules\@types\hast\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\js-yaml\README.md → _inbox\Corpus-Site\node_modules\@types\js-yaml\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\katex\README.md → _inbox\Corpus-Site\node_modules\@types\katex\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\mathjax\README.md → _inbox\Corpus-Site\node_modules\@types\mathjax\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\mdast\README.md → _inbox\Corpus-Site\node_modules\@types\mdast\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\ms\README.md → _inbox\Corpus-Site\node_modules\@types\ms\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\nlcst\README.md → _inbox\Corpus-Site\node_modules\@types\nlcst\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\node\README.md → _inbox\Corpus-Site\node_modules\@types\node\README.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\node_modules\@types\pretty-time\README.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\source-map-support\README.md → _inbox\Corpus-Site\node_modules\@types\source-map-support\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\ws\README.md → _inbox\Corpus-Site\node_modules\@types\ws\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\yargs\README.md → _inbox\Corpus-Site\node_modules\@types\yargs\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@types\yargs-parser\README.md → _inbox\Corpus-Site\node_modules\@types\yargs-parser\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@ungap\structured-clone\README.md → _inbox\Corpus-Site\node_modules\@ungap\structured-clone\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@webgpu\types\README.md → _inbox\Corpus-Site\node_modules\@webgpu\types\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@xmldom\xmldom\CHANGELOG.md → _inbox\Corpus-Site\node_modules\@xmldom\xmldom\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@xmldom\xmldom\readme.md → _inbox\Corpus-Site\node_modules\@xmldom\xmldom\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\@xmldom\xmldom\SECURITY.md → _inbox\Corpus-Site\node_modules\@xmldom\xmldom\SECURITY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\agent-base\README.md → _inbox\Corpus-Site\node_modules\agent-base\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ansi-regex\readme.md → _inbox\Corpus-Site\node_modules\ansi-regex\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ansi-styles\readme.md → _inbox\Corpus-Site\node_modules\ansi-styles\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ansi-truncate\readme.md → _inbox\Corpus-Site\node_modules\ansi-truncate\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\argparse\CHANGELOG.md → _inbox\Corpus-Site\node_modules\argparse\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\argparse\README.md → _inbox\Corpus-Site\node_modules\argparse\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\array-iterate\readme.md → _inbox\Corpus-Site\node_modules\array-iterate\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\async-mutex\README.md → _inbox\Corpus-Site\node_modules\async-mutex\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\bail\readme.md → _inbox\Corpus-Site\node_modules\bail\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\balanced-match\LICENSE.md → _inbox\Corpus-Site\node_modules\balanced-match\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\balanced-match\README.md → _inbox\Corpus-Site\node_modules\balanced-match\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\base64-js\README.md → _inbox\Corpus-Site\node_modules\base64-js\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\braces\README.md → _inbox\Corpus-Site\node_modules\braces\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\buffer\AUTHORS.md → _inbox\Corpus-Site\node_modules\buffer\AUTHORS.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\buffer\README.md → _inbox\Corpus-Site\node_modules\buffer\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\buffer-builder\ReadMe.md → _inbox\Corpus-Site\node_modules\buffer-builder\ReadMe.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\buffer-from\readme.md → _inbox\Corpus-Site\node_modules\buffer-from\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\bytes\History.md → _inbox\Corpus-Site\node_modules\bytes\History.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\bytes\Readme.md → _inbox\Corpus-Site\node_modules\bytes\Readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\camelize\CHANGELOG.md → _inbox\Corpus-Site\node_modules\camelize\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\camelize\README.md → _inbox\Corpus-Site\node_modules\camelize\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ccount\readme.md → _inbox\Corpus-Site\node_modules\ccount\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\character-entities\readme.md → _inbox\Corpus-Site\node_modules\character-entities\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\character-entities-html4\readme.md → _inbox\Corpus-Site\node_modules\character-entities-html4\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\character-entities-legacy\readme.md → _inbox\Corpus-Site\node_modules\character-entities-legacy\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\character-reference-invalid\readme.md → _inbox\Corpus-Site\node_modules\character-reference-invalid\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\chokidar\README.md → _inbox\Corpus-Site\node_modules\chokidar\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\cli-spinner\README.md → _inbox\Corpus-Site\node_modules\cli-spinner\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\cliui\CHANGELOG.md → _inbox\Corpus-Site\node_modules\cliui\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\cliui\README.md → _inbox\Corpus-Site\node_modules\cliui\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\color\README.md → _inbox\Corpus-Site\node_modules\color\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\color-convert\CHANGELOG.md → _inbox\Corpus-Site\node_modules\color-convert\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\color-convert\README.md → _inbox\Corpus-Site\node_modules\color-convert\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\color-name\README.md → _inbox\Corpus-Site\node_modules\color-name\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\color-string\README.md → _inbox\Corpus-Site\node_modules\color-string\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\colorjs.io\README.md → _inbox\Corpus-Site\node_modules\colorjs.io\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\comma-separated-tokens\readme.md → _inbox\Corpus-Site\node_modules\comma-separated-tokens\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\commander\CHANGELOG.md → _inbox\Corpus-Site\node_modules\commander\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\commander\Readme.md → _inbox\Corpus-Site\node_modules\commander\Readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\content-disposition\HISTORY.md → _inbox\Corpus-Site\node_modules\content-disposition\HISTORY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\content-disposition\README.md → _inbox\Corpus-Site\node_modules\content-disposition\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\cross-fetch\CHANGELOG.md → _inbox\Corpus-Site\node_modules\cross-fetch\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\cross-fetch\README.md → _inbox\Corpus-Site\node_modules\cross-fetch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\css-background-parser\README.md → _inbox\Corpus-Site\node_modules\css-background-parser\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\css-box-shadow\README.md → _inbox\Corpus-Site\node_modules\css-box-shadow\README.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\node_modules\css-color-keywords\README.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\css-gradient-parser\README.md → _inbox\Corpus-Site\node_modules\css-gradient-parser\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\css-to-react-native\LICENSE.md → _inbox\Corpus-Site\node_modules\css-to-react-native\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\css-to-react-native\README.md → _inbox\Corpus-Site\node_modules\css-to-react-native\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3\README.md → _inbox\Corpus-Site\node_modules\d3\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-array\README.md → _inbox\Corpus-Site\node_modules\d3-array\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-axis\README.md → _inbox\Corpus-Site\node_modules\d3-axis\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-brush\README.md → _inbox\Corpus-Site\node_modules\d3-brush\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-chord\README.md → _inbox\Corpus-Site\node_modules\d3-chord\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-color\README.md → _inbox\Corpus-Site\node_modules\d3-color\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-contour\README.md → _inbox\Corpus-Site\node_modules\d3-contour\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-delaunay\README.md → _inbox\Corpus-Site\node_modules\d3-delaunay\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-dispatch\README.md → _inbox\Corpus-Site\node_modules\d3-dispatch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-drag\README.md → _inbox\Corpus-Site\node_modules\d3-drag\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-dsv\README.md → _inbox\Corpus-Site\node_modules\d3-dsv\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-ease\README.md → _inbox\Corpus-Site\node_modules\d3-ease\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-fetch\README.md → _inbox\Corpus-Site\node_modules\d3-fetch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-force\README.md → _inbox\Corpus-Site\node_modules\d3-force\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-format\README.md → _inbox\Corpus-Site\node_modules\d3-format\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-geo\README.md → _inbox\Corpus-Site\node_modules\d3-geo\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-hierarchy\README.md → _inbox\Corpus-Site\node_modules\d3-hierarchy\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-interpolate\README.md → _inbox\Corpus-Site\node_modules\d3-interpolate\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-path\README.md → _inbox\Corpus-Site\node_modules\d3-path\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-polygon\README.md → _inbox\Corpus-Site\node_modules\d3-polygon\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-quadtree\README.md → _inbox\Corpus-Site\node_modules\d3-quadtree\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-random\README.md → _inbox\Corpus-Site\node_modules\d3-random\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-scale\README.md → _inbox\Corpus-Site\node_modules\d3-scale\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-scale-chromatic\README.md → _inbox\Corpus-Site\node_modules\d3-scale-chromatic\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-selection\README.md → _inbox\Corpus-Site\node_modules\d3-selection\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-shape\README.md → _inbox\Corpus-Site\node_modules\d3-shape\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-time\README.md → _inbox\Corpus-Site\node_modules\d3-time\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-time-format\README.md → _inbox\Corpus-Site\node_modules\d3-time-format\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-timer\README.md → _inbox\Corpus-Site\node_modules\d3-timer\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-transition\README.md → _inbox\Corpus-Site\node_modules\d3-transition\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\d3-zoom\README.md → _inbox\Corpus-Site\node_modules\d3-zoom\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\debug\README.md → _inbox\Corpus-Site\node_modules\debug\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\decode-named-character-reference\readme.md → _inbox\Corpus-Site\node_modules\decode-named-character-reference\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\delaunator\README.md → _inbox\Corpus-Site\node_modules\delaunator\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\dequal\readme.md → _inbox\Corpus-Site\node_modules\dequal\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\detect-libc\README.md → _inbox\Corpus-Site\node_modules\detect-libc\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\devlop\readme.md → _inbox\Corpus-Site\node_modules\devlop\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\earcut\README.md → _inbox\Corpus-Site\node_modules\earcut\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\emoji-regex\README.md → _inbox\Corpus-Site\node_modules\emoji-regex\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\emoji-regex-xs\README.md → _inbox\Corpus-Site\node_modules\emoji-regex-xs\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\entities\readme.md → _inbox\Corpus-Site\node_modules\entities\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\esbuild\LICENSE.md → _inbox\Corpus-Site\node_modules\esbuild\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\esbuild\README.md → _inbox\Corpus-Site\node_modules\esbuild\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\esbuild-sass-plugin\README.md → _inbox\Corpus-Site\node_modules\esbuild-sass-plugin\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\escalade\readme.md → _inbox\Corpus-Site\node_modules\escalade\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\escape-html\Readme.md → _inbox\Corpus-Site\node_modules\escape-html\Readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\escape-string-regexp\readme.md → _inbox\Corpus-Site\node_modules\escape-string-regexp\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\esm\README.md → _inbox\Corpus-Site\node_modules\esm\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\esprima\README.md → _inbox\Corpus-Site\node_modules\esprima\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\estree-util-is-identifier-name\readme.md → _inbox\Corpus-Site\node_modules\estree-util-is-identifier-name\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\eventemitter3\README.md → _inbox\Corpus-Site\node_modules\eventemitter3\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\extend\CHANGELOG.md → _inbox\Corpus-Site\node_modules\extend\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\extend\README.md → _inbox\Corpus-Site\node_modules\extend\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\extend-shallow\README.md → _inbox\Corpus-Site\node_modules\extend-shallow\README.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\node_modules\fast-glob\README.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fast-string-truncated-width\readme.md → _inbox\Corpus-Site\node_modules\fast-string-truncated-width\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fastq\README.md → _inbox\Corpus-Site\node_modules\fastq\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fastq\SECURITY.md → _inbox\Corpus-Site\node_modules\fastq\SECURITY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fault\readme.md → _inbox\Corpus-Site\node_modules\fault\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fetch-ponyfill\HISTORY.md → _inbox\Corpus-Site\node_modules\fetch-ponyfill\HISTORY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fetch-ponyfill\README.md → _inbox\Corpus-Site\node_modules\fetch-ponyfill\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fetch-ponyfill\node_modules\node-fetch\LICENSE.md → _inbox\Corpus-Site\node_modules\fetch-ponyfill\node_modules\node-fetch\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fetch-ponyfill\node_modules\node-fetch\README.md → _inbox\Corpus-Site\node_modules\fetch-ponyfill\node_modules\node-fetch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fetch-ponyfill\node_modules\webidl-conversions\LICENSE.md → _inbox\Corpus-Site\node_modules\fetch-ponyfill\node_modules\webidl-conversions\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fetch-ponyfill\node_modules\webidl-conversions\README.md → _inbox\Corpus-Site\node_modules\fetch-ponyfill\node_modules\webidl-conversions\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fetch-ponyfill\node_modules\whatwg-url\README.md → _inbox\Corpus-Site\node_modules\fetch-ponyfill\node_modules\whatwg-url\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fflate\CHANGELOG.md → _inbox\Corpus-Site\node_modules\fflate\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fflate\README.md → _inbox\Corpus-Site\node_modules\fflate\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\fill-range\README.md → _inbox\Corpus-Site\node_modules\fill-range\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\flexsearch\CHANGELOG.md → _inbox\Corpus-Site\node_modules\flexsearch\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\flexsearch\README.md → _inbox\Corpus-Site\node_modules\flexsearch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\format\Readme.md → _inbox\Corpus-Site\node_modules\format\Readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\function-bind\CHANGELOG.md → _inbox\Corpus-Site\node_modules\function-bind\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\function-bind\README.md → _inbox\Corpus-Site\node_modules\function-bind\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\function-bind\.github\SECURITY.md → _inbox\Corpus-Site\node_modules\function-bind\.github\SECURITY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\get-caller-file\LICENSE.md → _inbox\Corpus-Site\node_modules\get-caller-file\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\get-caller-file\README.md → _inbox\Corpus-Site\node_modules\get-caller-file\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\get-east-asian-width\readme.md → _inbox\Corpus-Site\node_modules\get-east-asian-width\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\get-tsconfig\README.md → _inbox\Corpus-Site\node_modules\get-tsconfig\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\gifuct-js\README.md → _inbox\Corpus-Site\node_modules\gifuct-js\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\github-slugger\README.md → _inbox\Corpus-Site\node_modules\github-slugger\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\glob-parent\CHANGELOG.md → _inbox\Corpus-Site\node_modules\glob-parent\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\glob-parent\README.md → _inbox\Corpus-Site\node_modules\glob-parent\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\globby\readme.md → _inbox\Corpus-Site\node_modules\globby\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\gray-matter\CHANGELOG.md → _inbox\Corpus-Site\node_modules\gray-matter\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\gray-matter\README.md → _inbox\Corpus-Site\node_modules\gray-matter\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\gray-matter\node_modules\argparse\CHANGELOG.md → _inbox\Corpus-Site\node_modules\gray-matter\node_modules\argparse\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\gray-matter\node_modules\argparse\README.md → _inbox\Corpus-Site\node_modules\gray-matter\node_modules\argparse\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\gray-matter\node_modules\js-yaml\CHANGELOG.md → _inbox\Corpus-Site\node_modules\gray-matter\node_modules\js-yaml\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\gray-matter\node_modules\js-yaml\README.md → _inbox\Corpus-Site\node_modules\gray-matter\node_modules\js-yaml\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\has-flag\readme.md → _inbox\Corpus-Site\node_modules\has-flag\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hasown\CHANGELOG.md → _inbox\Corpus-Site\node_modules\hasown\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hasown\README.md → _inbox\Corpus-Site\node_modules\hasown\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-from-dom\readme.md → _inbox\Corpus-Site\node_modules\hast-util-from-dom\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-from-html\readme.md → _inbox\Corpus-Site\node_modules\hast-util-from-html\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-from-html\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\hast-util-from-html\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-from-html\node_modules\unist-util-stringify-position\readme.md → _inbox\Corpus-Site\node_modules\hast-util-from-html\node_modules\unist-util-stringify-position\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-from-html\node_modules\vfile-message\readme.md → _inbox\Corpus-Site\node_modules\hast-util-from-html\node_modules\vfile-message\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-from-html-isomorphic\readme.md → _inbox\Corpus-Site\node_modules\hast-util-from-html-isomorphic\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-from-parse5\readme.md → _inbox\Corpus-Site\node_modules\hast-util-from-parse5\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-from-parse5\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\hast-util-from-parse5\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-heading-rank\readme.md → _inbox\Corpus-Site\node_modules\hast-util-heading-rank\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-is-element\readme.md → _inbox\Corpus-Site\node_modules\hast-util-is-element\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-parse-selector\readme.md → _inbox\Corpus-Site\node_modules\hast-util-parse-selector\readme.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\node_modules\hast-util-raw\readme.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-raw\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\hast-util-raw\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-html\readme.md → _inbox\Corpus-Site\node_modules\hast-util-to-html\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-html\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\hast-util-to-html\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-html\node_modules\property-information\readme.md → _inbox\Corpus-Site\node_modules\hast-util-to-html\node_modules\property-information\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-jsx-runtime\readme.md → _inbox\Corpus-Site\node_modules\hast-util-to-jsx-runtime\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-jsx-runtime\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\hast-util-to-jsx-runtime\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-jsx-runtime\node_modules\property-information\readme.md → _inbox\Corpus-Site\node_modules\hast-util-to-jsx-runtime\node_modules\property-information\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-jsx-runtime\node_modules\unist-util-stringify-position\readme.md → _inbox\Corpus-Site\node_modules\hast-util-to-jsx-runtime\node_modules\unist-util-stringify-position\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-jsx-runtime\node_modules\vfile-message\readme.md → _inbox\Corpus-Site\node_modules\hast-util-to-jsx-runtime\node_modules\vfile-message\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-parse5\readme.md → _inbox\Corpus-Site\node_modules\hast-util-to-parse5\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-string\readme.md → _inbox\Corpus-Site\node_modules\hast-util-to-string\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-text\readme.md → _inbox\Corpus-Site\node_modules\hast-util-to-text\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-to-text\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\hast-util-to-text\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hast-util-whitespace\readme.md → _inbox\Corpus-Site\node_modules\hast-util-whitespace\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hastscript\readme.md → _inbox\Corpus-Site\node_modules\hastscript\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\hex-rgb\readme.md → _inbox\Corpus-Site\node_modules\hex-rgb\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\html-void-elements\readme.md → _inbox\Corpus-Site\node_modules\html-void-elements\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\https-proxy-agent\README.md → _inbox\Corpus-Site\node_modules\https-proxy-agent\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\iconv-lite\Changelog.md → _inbox\Corpus-Site\node_modules\iconv-lite\Changelog.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\iconv-lite\README.md → _inbox\Corpus-Site\node_modules\iconv-lite\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ieee754\README.md → _inbox\Corpus-Site\node_modules\ieee754\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ignore\README.md → _inbox\Corpus-Site\node_modules\ignore\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\immutable\README.md → _inbox\Corpus-Site\node_modules\immutable\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\inline-style-parser\README.md → _inbox\Corpus-Site\node_modules\inline-style-parser\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\internmap\README.md → _inbox\Corpus-Site\node_modules\internmap\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-absolute-url\readme.md → _inbox\Corpus-Site\node_modules\is-absolute-url\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-alphabetical\readme.md → _inbox\Corpus-Site\node_modules\is-alphabetical\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-alphanumerical\readme.md → _inbox\Corpus-Site\node_modules\is-alphanumerical\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-arrayish\README.md → _inbox\Corpus-Site\node_modules\is-arrayish\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-core-module\CHANGELOG.md → _inbox\Corpus-Site\node_modules\is-core-module\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-core-module\README.md → _inbox\Corpus-Site\node_modules\is-core-module\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-decimal\readme.md → _inbox\Corpus-Site\node_modules\is-decimal\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-extendable\README.md → _inbox\Corpus-Site\node_modules\is-extendable\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-extglob\README.md → _inbox\Corpus-Site\node_modules\is-extglob\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-glob\README.md → _inbox\Corpus-Site\node_modules\is-glob\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-hexadecimal\readme.md → _inbox\Corpus-Site\node_modules\is-hexadecimal\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-number\README.md → _inbox\Corpus-Site\node_modules\is-number\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\is-plain-obj\readme.md → _inbox\Corpus-Site\node_modules\is-plain-obj\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ismobilejs\CONTRIBUTORS.md → _inbox\Corpus-Site\node_modules\ismobilejs\CONTRIBUTORS.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ismobilejs\README.md → _inbox\Corpus-Site\node_modules\ismobilejs\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\js-binary-schema-parser\README.md → _inbox\Corpus-Site\node_modules\js-binary-schema-parser\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\js-yaml\CHANGELOG.md → _inbox\Corpus-Site\node_modules\js-yaml\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\js-yaml\README.md → _inbox\Corpus-Site\node_modules\js-yaml\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\katex\README.md → _inbox\Corpus-Site\node_modules\katex\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\katex\contrib\auto-render\README.md → _inbox\Corpus-Site\node_modules\katex\contrib\auto-render\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\katex\contrib\copy-tex\README.md → _inbox\Corpus-Site\node_modules\katex\contrib\copy-tex\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\katex\contrib\mathtex-script-type\README.md → _inbox\Corpus-Site\node_modules\katex\contrib\mathtex-script-type\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\katex\contrib\mhchem\README.md → _inbox\Corpus-Site\node_modules\katex\contrib\mhchem\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\katex\dist\README.md → _inbox\Corpus-Site\node_modules\katex\dist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\katex\node_modules\commander\Readme.md → _inbox\Corpus-Site\node_modules\katex\node_modules\commander\Readme.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\node_modules\katex\src\metrics\README.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\kind-of\CHANGELOG.md → _inbox\Corpus-Site\node_modules\kind-of\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\kind-of\README.md → _inbox\Corpus-Site\node_modules\kind-of\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\lightningcss\README.md → _inbox\Corpus-Site\node_modules\lightningcss\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\lightningcss-win32-x64-msvc\README.md → _inbox\Corpus-Site\node_modules\lightningcss-win32-x64-msvc\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\linebreak\readme.md → _inbox\Corpus-Site\node_modules\linebreak\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\linebreak\node_modules\base64-js\README.md → _inbox\Corpus-Site\node_modules\linebreak\node_modules\base64-js\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\longest-streak\readme.md → _inbox\Corpus-Site\node_modules\longest-streak\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\markdown-table\readme.md → _inbox\Corpus-Site\node_modules\markdown-table\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mathjax-full\CONTRIBUTING.md → _inbox\Corpus-Site\node_modules\mathjax-full\CONTRIBUTING.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mathjax-full\README.md → _inbox\Corpus-Site\node_modules\mathjax-full\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-find-and-replace\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-find-and-replace\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-from-markdown\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-from-markdown\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-from-markdown\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\mdast-util-from-markdown\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-from-markdown\node_modules\unist-util-stringify-position\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-from-markdown\node_modules\unist-util-stringify-position\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-frontmatter\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-frontmatter\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-gfm\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-gfm\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-gfm-autolink-literal\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-gfm-autolink-literal\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-gfm-footnote\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-gfm-footnote\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-gfm-strikethrough\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-gfm-strikethrough\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-gfm-table\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-gfm-table\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-gfm-task-list-item\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-gfm-task-list-item\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-math\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-math\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-mdx-expression\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-mdx-expression\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-mdx-jsx\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-mdx-jsx\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-mdx-jsx\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\mdast-util-mdx-jsx\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-mdx-jsx\node_modules\unist-util-stringify-position\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-mdx-jsx\node_modules\unist-util-stringify-position\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-mdx-jsx\node_modules\vfile-message\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-mdx-jsx\node_modules\vfile-message\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-mdxjs-esm\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-mdxjs-esm\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-newline-to-break\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-newline-to-break\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-phrasing\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-phrasing\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-to-hast\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-to-hast\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-to-markdown\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-to-markdown\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-to-markdown\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\mdast-util-to-markdown\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mdast-util-to-string\readme.md → _inbox\Corpus-Site\node_modules\mdast-util-to-string\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\merge2\README.md → _inbox\Corpus-Site\node_modules\merge2\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mhchemparser\README.md → _inbox\Corpus-Site\node_modules\mhchemparser\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark\readme.md → _inbox\Corpus-Site\node_modules\micromark\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-core-commonmark\readme.md → _inbox\Corpus-Site\node_modules\micromark-core-commonmark\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-extension-frontmatter\readme.md → _inbox\Corpus-Site\node_modules\micromark-extension-frontmatter\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-extension-gfm\readme.md → _inbox\Corpus-Site\node_modules\micromark-extension-gfm\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-extension-gfm-autolink-literal\readme.md → _inbox\Corpus-Site\node_modules\micromark-extension-gfm-autolink-literal\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-extension-gfm-footnote\readme.md → _inbox\Corpus-Site\node_modules\micromark-extension-gfm-footnote\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-extension-gfm-strikethrough\readme.md → _inbox\Corpus-Site\node_modules\micromark-extension-gfm-strikethrough\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-extension-gfm-table\readme.md → _inbox\Corpus-Site\node_modules\micromark-extension-gfm-table\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-extension-gfm-tagfilter\readme.md → _inbox\Corpus-Site\node_modules\micromark-extension-gfm-tagfilter\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-extension-gfm-task-list-item\readme.md → _inbox\Corpus-Site\node_modules\micromark-extension-gfm-task-list-item\readme.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\node_modules\micromark-extension-math\readme.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-factory-destination\readme.md → _inbox\Corpus-Site\node_modules\micromark-factory-destination\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-factory-label\readme.md → _inbox\Corpus-Site\node_modules\micromark-factory-label\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-factory-space\readme.md → _inbox\Corpus-Site\node_modules\micromark-factory-space\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-factory-title\readme.md → _inbox\Corpus-Site\node_modules\micromark-factory-title\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-factory-whitespace\readme.md → _inbox\Corpus-Site\node_modules\micromark-factory-whitespace\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-character\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-character\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-chunked\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-chunked\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-classify-character\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-classify-character\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-combine-extensions\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-combine-extensions\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-decode-numeric-character-reference\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-decode-numeric-character-reference\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-decode-string\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-decode-string\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-encode\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-encode\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-html-tag-name\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-html-tag-name\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-normalize-identifier\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-normalize-identifier\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-resolve-all\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-resolve-all\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-sanitize-uri\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-sanitize-uri\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-subtokenize\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-subtokenize\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-symbol\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-symbol\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromark-util-types\readme.md → _inbox\Corpus-Site\node_modules\micromark-util-types\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromatch\README.md → _inbox\Corpus-Site\node_modules\micromatch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\micromorph\README.md → _inbox\Corpus-Site\node_modules\micromorph\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mime-db\HISTORY.md → _inbox\Corpus-Site\node_modules\mime-db\HISTORY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mime-db\README.md → _inbox\Corpus-Site\node_modules\mime-db\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mime-types\HISTORY.md → _inbox\Corpus-Site\node_modules\mime-types\HISTORY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mime-types\README.md → _inbox\Corpus-Site\node_modules\mime-types\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\minimatch\README.md → _inbox\Corpus-Site\node_modules\minimatch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\mj-context-menu\README.md → _inbox\Corpus-Site\node_modules\mj-context-menu\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\moo\README.md → _inbox\Corpus-Site\node_modules\moo\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ms\license.md → _inbox\Corpus-Site\node_modules\ms\license.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ms\readme.md → _inbox\Corpus-Site\node_modules\ms\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\nlcst-to-string\readme.md → _inbox\Corpus-Site\node_modules\nlcst-to-string\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\node-fetch\LICENSE.md → _inbox\Corpus-Site\node_modules\node-fetch\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\node-fetch\README.md → _inbox\Corpus-Site\node_modules\node-fetch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\node-fetch\node_modules\webidl-conversions\LICENSE.md → _inbox\Corpus-Site\node_modules\node-fetch\node_modules\webidl-conversions\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\node-fetch\node_modules\webidl-conversions\README.md → _inbox\Corpus-Site\node_modules\node-fetch\node_modules\webidl-conversions\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\node-fetch\node_modules\whatwg-url\README.md → _inbox\Corpus-Site\node_modules\node-fetch\node_modules\whatwg-url\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\oniguruma-to-es\README.md → _inbox\Corpus-Site\node_modules\oniguruma-to-es\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\pako\CHANGELOG.md → _inbox\Corpus-Site\node_modules\pako\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\pako\README.md → _inbox\Corpus-Site\node_modules\pako\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\parse-css-color\CHANGELOG.md → _inbox\Corpus-Site\node_modules\parse-css-color\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\parse-css-color\README.md → _inbox\Corpus-Site\node_modules\parse-css-color\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\parse-entities\readme.md → _inbox\Corpus-Site\node_modules\parse-entities\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\parse-latin\readme.md → _inbox\Corpus-Site\node_modules\parse-latin\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\parse-latin\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\parse-latin\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\parse-numeric-range\README.md → _inbox\Corpus-Site\node_modules\parse-numeric-range\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\parse-svg-path\Readme.md → _inbox\Corpus-Site\node_modules\parse-svg-path\Readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\parse5\README.md → _inbox\Corpus-Site\node_modules\parse5\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\path-parse\README.md → _inbox\Corpus-Site\node_modules\path-parse\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\path-to-regexp\Readme.md → _inbox\Corpus-Site\node_modules\path-to-regexp\Readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\path-type\readme.md → _inbox\Corpus-Site\node_modules\path-type\readme.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\node_modules\picocolors\README.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\picomatch\CHANGELOG.md → _inbox\Corpus-Site\node_modules\picomatch\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\picomatch\README.md → _inbox\Corpus-Site\node_modules\picomatch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\pixi.js\README.md → _inbox\Corpus-Site\node_modules\pixi.js\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\postcss-value-parser\README.md → _inbox\Corpus-Site\node_modules\postcss-value-parser\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\preact\README.md → _inbox\Corpus-Site\node_modules\preact\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\preact-render-to-string\README.md → _inbox\Corpus-Site\node_modules\preact-render-to-string\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\prettier\README.md → _inbox\Corpus-Site\node_modules\prettier\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\prettier\THIRD-PARTY-NOTICES.md → _inbox\Corpus-Site\node_modules\prettier\THIRD-PARTY-NOTICES.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\pretty-bytes\readme.md → _inbox\Corpus-Site\node_modules\pretty-bytes\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\pretty-time\README.md → _inbox\Corpus-Site\node_modules\pretty-time\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\property-information\readme.md → _inbox\Corpus-Site\node_modules\property-information\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\queue-microtask\README.md → _inbox\Corpus-Site\node_modules\queue-microtask\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\range-parser\HISTORY.md → _inbox\Corpus-Site\node_modules\range-parser\HISTORY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\range-parser\README.md → _inbox\Corpus-Site\node_modules\range-parser\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\readdirp\README.md → _inbox\Corpus-Site\node_modules\readdirp\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\reading-time\README.md → _inbox\Corpus-Site\node_modules\reading-time\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\regex\README.md → _inbox\Corpus-Site\node_modules\regex\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\regex-recursion\README.md → _inbox\Corpus-Site\node_modules\regex-recursion\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\regex-utilities\README.md → _inbox\Corpus-Site\node_modules\regex-utilities\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rehype-autolink-headings\readme.md → _inbox\Corpus-Site\node_modules\rehype-autolink-headings\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rehype-citation\README.md → _inbox\Corpus-Site\node_modules\rehype-citation\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rehype-katex\readme.md → _inbox\Corpus-Site\node_modules\rehype-katex\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rehype-mathjax\readme.md → _inbox\Corpus-Site\node_modules\rehype-mathjax\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rehype-mathjax\node_modules\hastscript\readme.md → _inbox\Corpus-Site\node_modules\rehype-mathjax\node_modules\hastscript\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rehype-parse\readme.md → _inbox\Corpus-Site\node_modules\rehype-parse\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rehype-pretty-code\README.md → _inbox\Corpus-Site\node_modules\rehype-pretty-code\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rehype-raw\readme.md → _inbox\Corpus-Site\node_modules\rehype-raw\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rehype-slug\readme.md → _inbox\Corpus-Site\node_modules\rehype-slug\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\remark\readme.md → _inbox\Corpus-Site\node_modules\remark\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\remark-breaks\readme.md → _inbox\Corpus-Site\node_modules\remark-breaks\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\remark-frontmatter\readme.md → _inbox\Corpus-Site\node_modules\remark-frontmatter\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\remark-gfm\readme.md → _inbox\Corpus-Site\node_modules\remark-gfm\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\remark-math\readme.md → _inbox\Corpus-Site\node_modules\remark-math\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\remark-parse\readme.md → _inbox\Corpus-Site\node_modules\remark-parse\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\remark-rehype\readme.md → _inbox\Corpus-Site\node_modules\remark-rehype\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\remark-smartypants\readme.md → _inbox\Corpus-Site\node_modules\remark-smartypants\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\remark-stringify\readme.md → _inbox\Corpus-Site\node_modules\remark-stringify\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\resolve\SECURITY.md → _inbox\Corpus-Site\node_modules\resolve\SECURITY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\resolve-pkg-maps\README.md → _inbox\Corpus-Site\node_modules\resolve-pkg-maps\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\retext\readme.md → _inbox\Corpus-Site\node_modules\retext\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\retext-latin\readme.md → _inbox\Corpus-Site\node_modules\retext-latin\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\retext-smartypants\readme.md → _inbox\Corpus-Site\node_modules\retext-smartypants\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\retext-stringify\readme.md → _inbox\Corpus-Site\node_modules\retext-stringify\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\reusify\README.md → _inbox\Corpus-Site\node_modules\reusify\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rfdc\readme.md → _inbox\Corpus-Site\node_modules\rfdc\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\robust-predicates\README.md → _inbox\Corpus-Site\node_modules\robust-predicates\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\run-parallel\README.md → _inbox\Corpus-Site\node_modules\run-parallel\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rw\README.md → _inbox\Corpus-Site\node_modules\rw\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rxjs\CHANGELOG.md → _inbox\Corpus-Site\node_modules\rxjs\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rxjs\CODE_OF_CONDUCT.md → _inbox\Corpus-Site\node_modules\rxjs\CODE_OF_CONDUCT.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\rxjs\README.md → _inbox\Corpus-Site\node_modules\rxjs\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\safe-identifier\README.md → _inbox\Corpus-Site\node_modules\safe-identifier\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\safer-buffer\Porting-Buffer.md → _inbox\Corpus-Site\node_modules\safer-buffer\Porting-Buffer.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\safer-buffer\Readme.md → _inbox\Corpus-Site\node_modules\safer-buffer\Readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\sass\README.md → _inbox\Corpus-Site\node_modules\sass\README.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\node_modules\sass-embedded\README.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\sass-embedded-win32-x64\README.md → _inbox\Corpus-Site\node_modules\sass-embedded-win32-x64\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\satori\README.md → _inbox\Corpus-Site\node_modules\satori\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\satori\node_modules\emoji-regex-xs\README.md → _inbox\Corpus-Site\node_modules\satori\node_modules\emoji-regex-xs\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\section-matter\README.md → _inbox\Corpus-Site\node_modules\section-matter\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\semver\README.md → _inbox\Corpus-Site\node_modules\semver\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\serve-handler\README.md → _inbox\Corpus-Site\node_modules\serve-handler\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\serve-handler\node_modules\brace-expansion\README.md → _inbox\Corpus-Site\node_modules\serve-handler\node_modules\brace-expansion\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\serve-handler\node_modules\minimatch\README.md → _inbox\Corpus-Site\node_modules\serve-handler\node_modules\minimatch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\sharp\README.md → _inbox\Corpus-Site\node_modules\sharp\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\shiki\README.md → _inbox\Corpus-Site\node_modules\shiki\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\simple-swizzle\README.md → _inbox\Corpus-Site\node_modules\simple-swizzle\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\sisteransi\readme.md → _inbox\Corpus-Site\node_modules\sisteransi\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\slash\readme.md → _inbox\Corpus-Site\node_modules\slash\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\source-map\CHANGELOG.md → _inbox\Corpus-Site\node_modules\source-map\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\source-map\README.md → _inbox\Corpus-Site\node_modules\source-map\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\source-map-js\CHANGELOG.md → _inbox\Corpus-Site\node_modules\source-map-js\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\source-map-js\README.md → _inbox\Corpus-Site\node_modules\source-map-js\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\source-map-support\LICENSE.md → _inbox\Corpus-Site\node_modules\source-map-support\LICENSE.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\source-map-support\README.md → _inbox\Corpus-Site\node_modules\source-map-support\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\space-separated-tokens\readme.md → _inbox\Corpus-Site\node_modules\space-separated-tokens\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\speech-rule-engine\README.md → _inbox\Corpus-Site\node_modules\speech-rule-engine\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\speech-rule-engine\bin\README.md → _inbox\Corpus-Site\node_modules\speech-rule-engine\bin\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\speech-rule-engine\lib\README.md → _inbox\Corpus-Site\node_modules\speech-rule-engine\lib\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\speech-rule-engine\node_modules\commander\Readme.md → _inbox\Corpus-Site\node_modules\speech-rule-engine\node_modules\commander\Readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\sprintf-js\README.md → _inbox\Corpus-Site\node_modules\sprintf-js\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\string-width\readme.md → _inbox\Corpus-Site\node_modules\string-width\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\string.prototype.codepointat\README.md → _inbox\Corpus-Site\node_modules\string.prototype.codepointat\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\stringify-entities\readme.md → _inbox\Corpus-Site\node_modules\stringify-entities\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\strip-ansi\readme.md → _inbox\Corpus-Site\node_modules\strip-ansi\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\strip-bom-string\README.md → _inbox\Corpus-Site\node_modules\strip-bom-string\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\style-to-js\README.md → _inbox\Corpus-Site\node_modules\style-to-js\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\style-to-object\README.md → _inbox\Corpus-Site\node_modules\style-to-object\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\supports-color\readme.md → _inbox\Corpus-Site\node_modules\supports-color\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\supports-preserve-symlinks-flag\CHANGELOG.md → _inbox\Corpus-Site\node_modules\supports-preserve-symlinks-flag\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\supports-preserve-symlinks-flag\README.md → _inbox\Corpus-Site\node_modules\supports-preserve-symlinks-flag\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\sync-fetch\README.md → _inbox\Corpus-Site\node_modules\sync-fetch\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\tiny-inflate\readme.md → _inbox\Corpus-Site\node_modules\tiny-inflate\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\tiny-lru\README.md → _inbox\Corpus-Site\node_modules\tiny-lru\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\to-regex-range\README.md → _inbox\Corpus-Site\node_modules\to-regex-range\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\to-vfile\readme.md → _inbox\Corpus-Site\node_modules\to-vfile\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\toml\CHANGELOG.md → _inbox\Corpus-Site\node_modules\toml\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\toml\README.md → _inbox\Corpus-Site\node_modules\toml\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\trim-lines\readme.md → _inbox\Corpus-Site\node_modules\trim-lines\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\trough\readme.md → _inbox\Corpus-Site\node_modules\trough\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\tslib\README.md → _inbox\Corpus-Site\node_modules\tslib\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\tslib\SECURITY.md → _inbox\Corpus-Site\node_modules\tslib\SECURITY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\tsx\README.md → _inbox\Corpus-Site\node_modules\tsx\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\typescript\README.md → _inbox\Corpus-Site\node_modules\typescript\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\typescript\SECURITY.md → _inbox\Corpus-Site\node_modules\typescript\SECURITY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\undici-types\README.md → _inbox\Corpus-Site\node_modules\undici-types\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unicode-trie\README.md → _inbox\Corpus-Site\node_modules\unicode-trie\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unicorn-magic\readme.md → _inbox\Corpus-Site\node_modules\unicorn-magic\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unified\readme.md → _inbox\Corpus-Site\node_modules\unified\readme.md
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Corpus-Site\node_modules\unified\node_modules\@types\unist\README.md: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-find-after\readme.md → _inbox\Corpus-Site\node_modules\unist-util-find-after\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-find-after\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\unist-util-find-after\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-is\readme.md → _inbox\Corpus-Site\node_modules\unist-util-is\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-is\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\unist-util-is\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-modify-children\readme.md → _inbox\Corpus-Site\node_modules\unist-util-modify-children\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-modify-children\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\unist-util-modify-children\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-position\readme.md → _inbox\Corpus-Site\node_modules\unist-util-position\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-position\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\unist-util-position\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-remove-position\readme.md → _inbox\Corpus-Site\node_modules\unist-util-remove-position\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-remove-position\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\unist-util-remove-position\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-visit\readme.md → _inbox\Corpus-Site\node_modules\unist-util-visit\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-visit\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\unist-util-visit\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-visit-children\readme.md → _inbox\Corpus-Site\node_modules\unist-util-visit-children\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-visit-children\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\unist-util-visit-children\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-visit-parents\readme.md → _inbox\Corpus-Site\node_modules\unist-util-visit-parents\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\unist-util-visit-parents\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\unist-util-visit-parents\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\varint\README.md → _inbox\Corpus-Site\node_modules\varint\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\vfile\readme.md → _inbox\Corpus-Site\node_modules\vfile\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\vfile\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\vfile\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\vfile\node_modules\unist-util-stringify-position\readme.md → _inbox\Corpus-Site\node_modules\vfile\node_modules\unist-util-stringify-position\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\vfile\node_modules\vfile-message\readme.md → _inbox\Corpus-Site\node_modules\vfile\node_modules\vfile-message\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\vfile-location\readme.md → _inbox\Corpus-Site\node_modules\vfile-location\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\vfile-location\node_modules\@types\unist\README.md → _inbox\Corpus-Site\node_modules\vfile-location\node_modules\@types\unist\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\web-namespaces\readme.md → _inbox\Corpus-Site\node_modules\web-namespaces\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\wicked-good-xpath\README.md → _inbox\Corpus-Site\node_modules\wicked-good-xpath\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\workerpool\HISTORY.md → _inbox\Corpus-Site\node_modules\workerpool\HISTORY.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\workerpool\README.md → _inbox\Corpus-Site\node_modules\workerpool\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\wrap-ansi\readme.md → _inbox\Corpus-Site\node_modules\wrap-ansi\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\ws\README.md → _inbox\Corpus-Site\node_modules\ws\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\xmldom-sre\readme.md → _inbox\Corpus-Site\node_modules\xmldom-sre\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\y18n\CHANGELOG.md → _inbox\Corpus-Site\node_modules\y18n\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\y18n\README.md → _inbox\Corpus-Site\node_modules\y18n\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\yargs\README.md → _inbox\Corpus-Site\node_modules\yargs\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\yargs-parser\CHANGELOG.md → _inbox\Corpus-Site\node_modules\yargs-parser\CHANGELOG.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\yargs-parser\README.md → _inbox\Corpus-Site\node_modules\yargs-parser\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\yoga-layout\README.md → _inbox\Corpus-Site\node_modules\yoga-layout\README.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\node_modules\zwitch\readme.md → _inbox\Corpus-Site\node_modules\zwitch\readme.md
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\public\static\icon.png → _inbox\Corpus-Site\public\static\icon.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\public\static\og-image.png → _inbox\Corpus-Site\public\static\og-image.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\quartz\static\icon.png → _inbox\Corpus-Site\quartz\static\icon.png
+[2026-07-03T17:40:32]   [DRY] copy: Corpus-Site\quartz\static\og-image.png → _inbox\Corpus-Site\quartz\static\og-image.png
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\0514_전남대병원_협의추진계획_컨소시엄내부용_파모즈.docx → _inbox\Legacy\0514_전남대병원_협의추진계획_컨소시엄내부용_파모즈.docx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260513_Domain_RAG_ARCHITECTURE.md → _inbox\Legacy\260513_Domain_RAG_ARCHITECTURE.md
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260513_스마트병원_개발협의_아젠다.docx → _inbox\Legacy\260513_스마트병원_개발협의_아젠다.docx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260514_스마트병원_개발협의_아젠다.docx → _inbox\Legacy\260514_스마트병원_개발협의_아젠다.docx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_RAPA_R&R_정의서_FAMOZ.docx → _inbox\Legacy\260518_RAPA_R&R_정의서_FAMOZ.docx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_RAPA_R&R_정의서_FAMOZ.pdf → _inbox\Legacy\260518_RAPA_R&R_정의서_FAMOZ.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_RAPA_R&R_정의서_v2_FAMOZ.docx → _inbox\Legacy\260518_RAPA_R&R_정의서_v2_FAMOZ.docx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_RAPA_R&R_정의서_v2_FAMOZ.pdf → _inbox\Legacy\260518_RAPA_R&R_정의서_v2_FAMOZ.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_RAPA_스마트병원AI_회의록.pdf → _inbox\Legacy\260518_RAPA_스마트병원AI_회의록.pdf
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Legacy\260518_RAPA_위치기반서비스_검토.docx: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_RAPA_위치기반서비스_검토.pdf → _inbox\Legacy\260518_RAPA_위치기반서비스_검토.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_위치기반서비스_신고의무_검토_v1.0.docx → _inbox\Legacy\260518_위치기반서비스_신고의무_검토_v1.0.docx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260526_SDK개발_사전문의_.docx → _inbox\Legacy\260526_SDK개발_사전문의_.docx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\전남대병원_역할정리_파모즈작성본.xlsx → _inbox\Legacy\전남대병원_역할정리_파모즈작성본.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_메일_첨부\01. 스마트동행서비스앱_레몬헬스케어컨소시엄_발표자료_0420.pdf → _inbox\Legacy\260518_메일_첨부\01. 스마트동행서비스앱_레몬헬스케어컨소시엄_발표자료_0420.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_메일_첨부\02. 20260515_컨소시엄 화상회의자료_전남대병원_협의필요내용 정리.docx → _inbox\Legacy\260518_메일_첨부\02. 20260515_컨소시엄 화상회의자료_전남대병원_협의필요내용 정리.docx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_메일_첨부\03. 스마트병원AI_시스템구성도_0515.pdf → _inbox\Legacy\260518_메일_첨부\03. 스마트병원AI_시스템구성도_0515.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260518_메일_첨부\04. 스마트병원AI_시스템구성도_병원보고용_설명문서_0525.pdf → _inbox\Legacy\260518_메일_첨부\04. 스마트병원AI_시스템구성도_병원보고용_설명문서_0525.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\(2-3-1) 스마트병원동행AI앱_WBS_20260527_v0.2.xlsx → _inbox\Legacy\260608\(2-3-1) 스마트병원동행AI앱_WBS_20260527_v0.2.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\20260608_154651.zip → _inbox\Legacy\260608\20260608_154651.zip
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\260608_파모즈_자료_요청사항.docx → _inbox\Legacy\260608\260608_파모즈_자료_요청사항.docx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\260608_파모즈_자료_요청사항.pdf → _inbox\Legacy\260608\260608_파모즈_자료_요청사항.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_3_FAMOZ.xlsx → _inbox\Legacy\260608\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_3_FAMOZ.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_4_1_롤업복구.xlsx → _inbox\Legacy\260608\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_4_1_롤업복구.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_4_FAMOZ.xlsx → _inbox\Legacy\260608\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_4_FAMOZ.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_5_구체화+정합성.xlsx → _inbox\Legacy\260608\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_5_구체화+정합성.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_6_FAMOZ구체화.xlsx → _inbox\Legacy\260608\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_6_FAMOZ구체화.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\20260608_154651\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.1.xlsx → _inbox\Legacy\260608\20260608_154651\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.1.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260608\20260608_154651\(2-3-1) 스마트병원동행AI앱_WBS_20260608_v0.3.xlsx → _inbox\Legacy\260608\20260608_154651\(2-3-1) 스마트병원동행AI앱_WBS_20260608_v0.3.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260612\20260612_요구사항_의존성분석_파모즈.xlsx → _inbox\Legacy\260612\20260612_요구사항_의존성분석_파모즈.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260612\20260612_요구사항_의존성분석_파모즈_간트차트.xlsx → _inbox\Legacy\260612\20260612_요구사항_의존성분석_파모즈_간트차트.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260612\_2-3-1__스마트병원동행AI앱_WBS_20260612_v0_4_파모즈.xlsx → _inbox\Legacy\260612\_2-3-1__스마트병원동행AI앱_WBS_20260612_v0_4_파모즈.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260612\old\rapa_wbs_gantt_dependency_20260612.xlsx → _inbox\Legacy\260612\old\rapa_wbs_gantt_dependency_20260612.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260612\old\rapa_wbs_gantt_dependency_20260612_재구성.xlsx → _inbox\Legacy\260612\old\rapa_wbs_gantt_dependency_20260612_재구성.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260612\old\rapa_wbs_gantt_dependency_20260612_파모즈단독.xlsx → _inbox\Legacy\260612\old\rapa_wbs_gantt_dependency_20260612_파모즈단독.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260612\old\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_4_FAMOZ (1).xlsx → _inbox\Legacy\260612\old\_2-3-1__스마트병원동행AI앱_WBS_20260611_v0_4_FAMOZ (1).xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Legacy\260612\old\_2-3-1__스마트병원동행AI앱_WBS_20260612_v0_5_파모즈일정반영.xlsx → _inbox\Legacy\260612\old\_2-3-1__스마트병원동행AI앱_WBS_20260612_v0_5_파모즈일정반영.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\260616_Todo.xlsx → _inbox\OUTPUT\260616_Todo.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\deliverables_external\01_측위엔진_요구사항_정의서.md → Deliverables\external\01_측위엔진_요구사항_정의서.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\deliverables_external\02_통합SDK_인터페이스_요구사항_정의서.md → Deliverables\external\02_통합SDK_인터페이스_요구사항_정의서.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\deliverables_external\03_측위엔진_아키텍처_문서.md → Deliverables\external\03_측위엔진_아키텍처_문서.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\deliverables_external\04_SDK_구성_설계서.md → Deliverables\external\04_SDK_구성_설계서.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\deliverables_external\05_데이터흐름_인터페이스_계약서.md → Deliverables\external\05_데이터흐름_인터페이스_계약서.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\deliverables_external\06_스캔_기준맵_파이프라인.md → Deliverables\external\06_스캔_기준맵_파이프라인.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\deliverables_external\07_빌드배포_CI_환경.md → Deliverables\external\07_빌드배포_CI_환경.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\deliverables_external\260618_측위엔진_PoC_정확도측정.md → Deliverables\external\260618_측위엔진_PoC_정확도측정.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\deliverables_external\README.md → Deliverables\external\README.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7.xlsm → _inbox\OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7.xlsm
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7_파모즈수정.xlsm → _inbox\OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7_파모즈수정.xlsm
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260703_v0.7.xlsm → _inbox\OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260703_v0.7.xlsm
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\WBS\wbs_diff_report.md → _inbox\OUTPUT\WBS\wbs_diff_report.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\WBS\legacy\(2-3-1) 스마트병원동행AI앱_WBS_20260615_v0.5.xlsm → _inbox\OUTPUT\WBS\legacy\(2-3-1) 스마트병원동행AI앱_WBS_20260615_v0.5.xlsm
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\OUTPUT\WBS\legacy\(2-3-1) 스마트병원동행AI앱_WBS_20260615_v0.6.xlsm: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원_착수보고\RAPA_스마트병원동행 AI앱_전남대학교병원 착수보고_20260525.pdf → _inbox\OUTPUT\병원_착수보고\RAPA_스마트병원동행 AI앱_전남대학교병원 착수보고_20260525.pdf
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원정보\1. AI 환자동행 서비스 개발 관련 - 병원 도면(외래동선 중심) 정보.zip → Hospital-info\1. AI 환자동행 서비스 개발 관련 - 병원 도면(외래동선 중심) 정보.zip
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원정보\2. AI 환자동행 서비스 개발 관련 - AP 정보.zip → Hospital-info\2. AI 환자동행 서비스 개발 관련 - AP 정보.zip
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\본원 배치도.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\본원 배치도.pdf
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제1동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제1동 1,2층.pdf
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제1주차장.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제1주차장.pdf
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제2동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제2동 1,2층.pdf
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제2주차장.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제2주차장.pdf
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제6동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제6동 1,2층.pdf
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제7동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제7동 1,2층.pdf
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제8동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제8동 1,2층.pdf
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\요구사항정의서\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.3.xlsx → Requirements\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.3.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\요구사항정의서\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.4.xlsx → Requirements\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.4.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\요구사항정의서\2-2-1_스마트병원동행AI앱_요구사항_정의서_v0_4_파모즈.xlsx → Requirements\2-2-1_스마트병원동행AI앱_요구사항_정의서_v0_4_파모즈.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\주간보고\2026년\06월\(2-6-1) 스마트병원동행AI앱_6월 4주차 주간보고_20260629.md → Reports\weekly\2026년\06월\(2-6-1) 스마트병원동행AI앱_6월 4주차 주간보고_20260629.md
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\파모즈_내부_산출물\요구사항정의\01_측위엔진_요구사항정의서_v1.1.xlsx → _inbox\OUTPUT\파모즈_내부_산출물\요구사항정의\01_측위엔진_요구사항정의서_v1.1.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\파모즈_내부_산출물\요구사항정의\01_측위엔진_요구사항정의서_v1.2.xlsx → _inbox\OUTPUT\파모즈_내부_산출물\요구사항정의\01_측위엔진_요구사항정의서_v1.2.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\파모즈_내부_산출물\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.1.xlsx → _inbox\OUTPUT\파모즈_내부_산출물\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.1.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\파모즈_내부_산출물\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.2.xlsx → _inbox\OUTPUT\파모즈_내부_산출물\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.2.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\파모즈_내부_산출물\측위테스트\KakaoTalk_20260621_153658352.png → _inbox\OUTPUT\파모즈_내부_산출물\측위테스트\KakaoTalk_20260621_153658352.png
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\파모즈_내부_산출물\측위테스트\RAPA_실내측위_진행현황.docx → _inbox\OUTPUT\파모즈_내부_산출물\측위테스트\RAPA_실내측위_진행현황.docx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\파모즈_내부_산출물\측위테스트\RAPA_융합측위엔진_기술상세.zip → _inbox\OUTPUT\파모즈_내부_산출물\측위테스트\RAPA_융합측위엔진_기술상세.zip
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\파모즈_내부_산출물\측위테스트\스마트병원AI_1차_측위테스트_계획.docx → _inbox\OUTPUT\파모즈_내부_산출물\측위테스트\스마트병원AI_1차_측위테스트_계획.docx
+[2026-07-03T17:40:32]   [DRY] copy: OUTPUT\파모즈_내부_산출물\측위테스트\스마트병원AI_1차_측위테스트_계획.pdf → _inbox\OUTPUT\파모즈_내부_산출물\측위테스트\스마트병원AI_1차_측위테스트_계획.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Positioning_Research\sensors-25-07291 (1).pdf → _inbox\Positioning_Research\sensors-25-07291 (1).pdf
+[2026-07-03T17:40:32]   [DRY] copy: Positioning_Research\sensors-25-07291.pdf → _inbox\Positioning_Research\sensors-25-07291.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Positioning_Research\short21.pdf → _inbox\Positioning_Research\short21.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Received\(2-3-1) 스마트병원동행AI앱_WBS_20260527_v0.2.xlsx → _inbox\Received\(2-3-1) 스마트병원동행AI앱_WBS_20260527_v0.2.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: Received\스크린샷 2026-05-22 102436.png → _inbox\Received\스크린샷 2026-05-22 102436.png
+[2026-07-03T17:40:32]   [DRY] copy: Received\전남대학교병원_푸시서비스_개발가이드.docx → _inbox\Received\전남대학교병원_푸시서비스_개발가이드.docx
+[2026-07-03T17:40:32]   [DRY] copy: Testing\260528_RAPA_실내측위_리서치.docx → _inbox\Testing\260528_RAPA_실내측위_리서치.docx
+[2026-07-03T17:40:32]   [DRY] copy: Testing\260528_RAPA_실내측위_리서치.pdf → _inbox\Testing\260528_RAPA_실내측위_리서치.pdf
+[2026-07-03T17:40:32]   [DRY] copy: Testing\260528_RAPA_실내측위_리서치_.docx → _inbox\Testing\260528_RAPA_실내측위_리서치_.docx
+[2026-07-03T17:40:32]   [DRY] copy: Testing\260610_실내측위_테스트_결과서_IndoorAtlas.docx → _inbox\Testing\260610_실내측위_테스트_결과서_IndoorAtlas.docx
+[2026-07-03T17:40:32]   [DRY] copy: Testing\260610_실내측위_테스트_결과서_IndoorAtlas.pdf → _inbox\Testing\260610_실내측위_테스트_결과서_IndoorAtlas.pdf
+[2026-07-03T17:40:32]   [DRY] copy: 산출물 폴더\1. 사업\1.3. WBS\스마트병원동행AI앱_WBS_20260526_v0.1.xlsx → _inbox\산출물 폴더\1. 사업\1.3. WBS\스마트병원동행AI앱_WBS_20260526_v0.1.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: 산출물 폴더\1. 사업\1.7. 단계별보고\착수보고\스마트병원동행AI앱_착수보고_0522.pdf → _inbox\산출물 폴더\1. 사업\1.7. 단계별보고\착수보고\스마트병원동행AI앱_착수보고_0522.pdf
+[2026-07-03T17:40:32]   [DRY] copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\레몬헬스케어_보안서약서.pdf → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\레몬헬스케어_보안서약서.pdf
+[2026-07-03T17:40:32]   ERROR copy D:\HB\P.RAPA_DEV\Docs\산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교병원_보안서약서.pdf: [Errno 22] Invalid argument
+[2026-07-03T17:40:32]   [DRY] copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교산학협력단_보안서약서.PDF → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교산학협력단_보안서약서.PDF
+[2026-07-03T17:40:32]   [DRY] copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\파모즈_보안서약서.pdf → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\파모즈_보안서약서.pdf
+[2026-07-03T17:40:32]   [DRY] copy: 산출물 폴더\3. 개발\3-1. 분석\(2-3-1) 스마트병원동행AI앱_WBS_20260615_v0.5.xlsm → _inbox\산출물 폴더\3. 개발\3-1. 분석\(2-3-1) 스마트병원동행AI앱_WBS_20260615_v0.5.xlsm
+[2026-07-03T17:40:32]   [DRY] copy: 산출물 폴더\3. 개발\3-1. 분석\산출물 관리대장_샘플.xlsx → _inbox\산출물 폴더\3. 개발\3-1. 분석\산출물 관리대장_샘플.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: 산출물 폴더\3. 개발\3-1. 분석\스마트병원동행AI앱_요구사항 정의서_v0.1.xlsx → _inbox\산출물 폴더\3. 개발\3-1. 분석\스마트병원동행AI앱_요구사항 정의서_v0.1.xlsx
+[2026-07-03T17:40:32]   [DRY] copy: 산출물 폴더\3. 개발\3-3. 개발\스마트병원동행AI앱_푸시서비스_개발가이드.docx → _inbox\산출물 폴더\3. 개발\3-3. 개발\스마트병원동행AI앱_푸시서비스_개발가이드.docx
+[2026-07-03T17:40:32]   result: copied=827, skipped=25, errors=15
+[2026-07-03T17:40:32] [2/3] wbs_to_md
+[2026-07-03T17:40:32]   run: C:\Users\user\AppData\Local\hermes\hermes-agent\venv\Scripts\python.exe D:\HB\P.RAPA_DEV\_obsidian_vault\Scripts\wbs_to_md.py D:\HB\P.RAPA_DEV\Docs\OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260703_v0.7.xlsm D:\HB\P.RAPA_DEV\_obsidian_vault\WBS D:\HB\P.RAPA_DEV\Docs\OUTPUT\WBS\wbs_diff_10am_vs_5pm.json
+[2026-07-03T17:40:32] [3/3] git commit + push
+[2026-07-03T17:40:32]   push SKIPPED (--skip-push)
+[2026-07-03T17:40:32] === daily sync END ===
+
+[2026-07-03T17:41:13] === daily sync START (dry_run=True, skip_push=True, skip_wbs=False) ===
+[2026-07-03T17:41:13] [1/3] file sync
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\index.md → Corpus-index.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\index.zip → _inbox\Corpus\index.zip
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\MOC.md → MOC.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\README.md → Corpus-README.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\docs\superpowers\nas-mcp-deployment.md → Corpus\Docs\superpowers\nas-mcp-deployment.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\docs\superpowers\phase-a-c-followup.md → Corpus\Docs\superpowers\phase-a-c-followup.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\docs\superpowers\plans\2026-05-28-corpus-migration.md → Corpus\Docs\superpowers\plans\2026-05-28-corpus-migration.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\docs\superpowers\specs\2026-05-28-corpus-design.md → Corpus\Docs\superpowers\specs\2026-05-28-corpus-design.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\domain\sdk-개발-사전문의.md → Corpus\Domain\sdk-개발-사전문의.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\domain\위치기반서비스-신고의무.md → Corpus\Domain\위치기반서비스-신고의무.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\evidence\positioning-sota-evidence.md → Corpus\Evidence\positioning-sota-evidence.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\meetings\2026-05-13-개발협의-아젠다-v1.md → Corpus\Meetings\2026-05-13-개발협의-아젠다-v1.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\meetings\2026-05-14-개발협의-아젠다-v2.md → Corpus\Meetings\2026-05-14-개발협의-아젠다-v2.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\meetings\2026-05-18-스마트병원-AI-회의록.md → Corpus\Meetings\2026-05-18-스마트병원-AI-회의록.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\scripts\README.md → _inbox\Corpus\scripts\README.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\scripts\ingest\tests\fixtures\sample.docx → _inbox\Corpus\scripts\ingest\tests\fixtures\sample.docx
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0001-test.md → Corpus\Tests\fixtures\mini_vault\decisions\0001-test.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0002-missing-type.md → Corpus\Tests\fixtures\mini_vault\decisions\0002-missing-type.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0003-old.md → Corpus\Tests\fixtures\mini_vault\decisions\0003-old.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0004-new.md → Corpus\Tests\fixtures\mini_vault\decisions\0004-new.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\CODE_OF_CONDUCT.md → _inbox\Corpus-Site\CODE_OF_CONDUCT.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\DEPLOY.md → _inbox\Corpus-Site\DEPLOY.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\README.md → _inbox\Corpus-Site\README.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\.github\pull_request_template.md → _inbox\Corpus-Site\.github\pull_request_template.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\.github\ISSUE_TEMPLATE\bug_report.md → _inbox\Corpus-Site\.github\ISSUE_TEMPLATE\bug_report.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\.github\ISSUE_TEMPLATE\feature_request.md → _inbox\Corpus-Site\.github\ISSUE_TEMPLATE\feature_request.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\authoring content.md → _inbox\Corpus-Site\docs\authoring content.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\build.md → _inbox\Corpus-Site\docs\build.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\configuration.md → _inbox\Corpus-Site\docs\configuration.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\hosting.md → _inbox\Corpus-Site\docs\hosting.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\index.md → _inbox\Corpus-Site\docs\index.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\layout-components.md → _inbox\Corpus-Site\docs\layout-components.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\layout.md → _inbox\Corpus-Site\docs\layout.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\migrating from Quartz 3.md → _inbox\Corpus-Site\docs\migrating from Quartz 3.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\philosophy.md → _inbox\Corpus-Site\docs\philosophy.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\setting up your GitHub repository.md → _inbox\Corpus-Site\docs\setting up your GitHub repository.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\showcase.md → _inbox\Corpus-Site\docs\showcase.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\upgrading.md → _inbox\Corpus-Site\docs\upgrading.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\advanced\architecture.md → _inbox\Corpus-Site\docs\advanced\architecture.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\advanced\creating components.md → _inbox\Corpus-Site\docs\advanced\creating components.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\advanced\index.md → _inbox\Corpus-Site\docs\advanced\index.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\advanced\making plugins.md → _inbox\Corpus-Site\docs\advanced\making plugins.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\advanced\paths.md → _inbox\Corpus-Site\docs\advanced\paths.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\backlinks.md → _inbox\Corpus-Site\docs\features\backlinks.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\breadcrumbs.md → _inbox\Corpus-Site\docs\features\breadcrumbs.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\callouts.md → _inbox\Corpus-Site\docs\features\callouts.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\Citations.md → _inbox\Corpus-Site\docs\features\Citations.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\comments.md → _inbox\Corpus-Site\docs\features\comments.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\darkmode.md → _inbox\Corpus-Site\docs\features\darkmode.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\Docker Support.md → _inbox\Corpus-Site\docs\features\Docker Support.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\explorer.md → _inbox\Corpus-Site\docs\features\explorer.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\folder and tag listings.md → _inbox\Corpus-Site\docs\features\folder and tag listings.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\full-text search.md → _inbox\Corpus-Site\docs\features\full-text search.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\graph view.md → _inbox\Corpus-Site\docs\features\graph view.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\i18n.md → _inbox\Corpus-Site\docs\features\i18n.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\index.md → _inbox\Corpus-Site\docs\features\index.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\Latex.md → _inbox\Corpus-Site\docs\features\Latex.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\Mermaid diagrams.md → _inbox\Corpus-Site\docs\features\Mermaid diagrams.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\Obsidian compatibility.md → _inbox\Corpus-Site\docs\features\Obsidian compatibility.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\OxHugo compatibility.md → _inbox\Corpus-Site\docs\features\OxHugo compatibility.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\popover previews.md → _inbox\Corpus-Site\docs\features\popover previews.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\private pages.md → _inbox\Corpus-Site\docs\features\private pages.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\reader mode.md → _inbox\Corpus-Site\docs\features\reader mode.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\recent notes.md → _inbox\Corpus-Site\docs\features\recent notes.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\Roam Research compatibility.md → _inbox\Corpus-Site\docs\features\Roam Research compatibility.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\RSS Feed.md → _inbox\Corpus-Site\docs\features\RSS Feed.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\social images.md → _inbox\Corpus-Site\docs\features\social images.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\SPA Routing.md → _inbox\Corpus-Site\docs\features\SPA Routing.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\syntax highlighting.md → _inbox\Corpus-Site\docs\features\syntax highlighting.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\table of contents.md → _inbox\Corpus-Site\docs\features\table of contents.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\upcoming features.md → _inbox\Corpus-Site\docs\features\upcoming features.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\features\wikilinks.md → _inbox\Corpus-Site\docs\features\wikilinks.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\custom-social-image-preview-dark.png → _inbox\Corpus-Site\docs\images\custom-social-image-preview-dark.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\custom-social-image-preview-light.png → _inbox\Corpus-Site\docs\images\custom-social-image-preview-light.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\dns records.png → _inbox\Corpus-Site\docs\images\dns records.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\giscus-discussion.png → _inbox\Corpus-Site\docs\images\giscus-discussion.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\giscus-example.png → _inbox\Corpus-Site\docs\images\giscus-example.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\giscus-repo.png → _inbox\Corpus-Site\docs\images\giscus-repo.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\giscus-results.png → _inbox\Corpus-Site\docs\images\giscus-results.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\github-init-repo-options.png → _inbox\Corpus-Site\docs\images\github-init-repo-options.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\github-quick-setup.png → _inbox\Corpus-Site\docs\images\github-quick-setup.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\quartz transform pipeline.png → _inbox\Corpus-Site\docs\images\quartz transform pipeline.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\quartz-layout-desktop.png → _inbox\Corpus-Site\docs\images\quartz-layout-desktop.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\quartz-layout-mobile.png → _inbox\Corpus-Site\docs\images\quartz-layout-mobile.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\quartz-layout-tablet.png → _inbox\Corpus-Site\docs\images\quartz-layout-tablet.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\social-image-preview-dark.png → _inbox\Corpus-Site\docs\images\social-image-preview-dark.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\images\social-image-preview-light.png → _inbox\Corpus-Site\docs\images\social-image-preview-light.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\AliasRedirects.md → _inbox\Corpus-Site\docs\plugins\AliasRedirects.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\Assets.md → _inbox\Corpus-Site\docs\plugins\Assets.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\Citations.md → _inbox\Corpus-Site\docs\plugins\Citations.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\CNAME.md → _inbox\Corpus-Site\docs\plugins\CNAME.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\ComponentResources.md → _inbox\Corpus-Site\docs\plugins\ComponentResources.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\ContentIndex.md → _inbox\Corpus-Site\docs\plugins\ContentIndex.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\ContentPage.md → _inbox\Corpus-Site\docs\plugins\ContentPage.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\CrawlLinks.md → _inbox\Corpus-Site\docs\plugins\CrawlLinks.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\CreatedModifiedDate.md → _inbox\Corpus-Site\docs\plugins\CreatedModifiedDate.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\CustomOgImages.md → _inbox\Corpus-Site\docs\plugins\CustomOgImages.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\Description.md → _inbox\Corpus-Site\docs\plugins\Description.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\ExplicitPublish.md → _inbox\Corpus-Site\docs\plugins\ExplicitPublish.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\Favicon.md → _inbox\Corpus-Site\docs\plugins\Favicon.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\FolderPage.md → _inbox\Corpus-Site\docs\plugins\FolderPage.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\Frontmatter.md → _inbox\Corpus-Site\docs\plugins\Frontmatter.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\GitHubFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\GitHubFlavoredMarkdown.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\HardLineBreaks.md → _inbox\Corpus-Site\docs\plugins\HardLineBreaks.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\index.md → _inbox\Corpus-Site\docs\plugins\index.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\Latex.md → _inbox\Corpus-Site\docs\plugins\Latex.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\NotFoundPage.md → _inbox\Corpus-Site\docs\plugins\NotFoundPage.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\ObsidianFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\ObsidianFlavoredMarkdown.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\OxHugoFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\OxHugoFlavoredMarkdown.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\RemoveDrafts.md → _inbox\Corpus-Site\docs\plugins\RemoveDrafts.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\RoamFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\RoamFlavoredMarkdown.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\Static.md → _inbox\Corpus-Site\docs\plugins\Static.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\SyntaxHighlighting.md → _inbox\Corpus-Site\docs\plugins\SyntaxHighlighting.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\TableOfContents.md → _inbox\Corpus-Site\docs\plugins\TableOfContents.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\plugins\TagPage.md → _inbox\Corpus-Site\docs\plugins\TagPage.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\tags\component.md → _inbox\Corpus-Site\docs\tags\component.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\docs\tags\plugin.md → _inbox\Corpus-Site\docs\tags\plugin.md
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\public\static\icon.png → _inbox\Corpus-Site\public\static\icon.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\public\static\og-image.png → _inbox\Corpus-Site\public\static\og-image.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\quartz\static\icon.png → _inbox\Corpus-Site\quartz\static\icon.png
+[2026-07-03T17:41:17]   [DRY] copy: Corpus-Site\quartz\static\og-image.png → _inbox\Corpus-Site\quartz\static\og-image.png
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\260616_Todo.xlsx → _inbox\OUTPUT\260616_Todo.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\deliverables_external\01_측위엔진_요구사항_정의서.md → Deliverables\external\01_측위엔진_요구사항_정의서.md
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\deliverables_external\02_통합SDK_인터페이스_요구사항_정의서.md → Deliverables\external\02_통합SDK_인터페이스_요구사항_정의서.md
+[2026-07-03T17:41:17]   ERROR copy D:\HB\P.RAPA_DEV\Docs\OUTPUT\deliverables_external\03_측위엔진_아키텍처_문서.md: [Errno 22] Invalid argument
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\deliverables_external\04_SDK_구성_설계서.md → Deliverables\external\04_SDK_구성_설계서.md
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\deliverables_external\05_데이터흐름_인터페이스_계약서.md → Deliverables\external\05_데이터흐름_인터페이스_계약서.md
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\deliverables_external\06_스캔_기준맵_파이프라인.md → Deliverables\external\06_스캔_기준맵_파이프라인.md
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\deliverables_external\07_빌드배포_CI_환경.md → Deliverables\external\07_빌드배포_CI_환경.md
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\deliverables_external\260618_측위엔진_PoC_정확도측정.md → Deliverables\external\260618_측위엔진_PoC_정확도측정.md
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\deliverables_external\README.md → Deliverables\external\README.md
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7.xlsm → WBS-source\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7.xlsm
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7_파모즈수정.xlsm → WBS-source\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7_파모즈수정.xlsm
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260703_v0.7.xlsm → WBS-source\(2-3-1) 스마트병원동행AI앱_WBS_20260703_v0.7.xlsm
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\WBS\wbs_diff_report.md → WBS-source\wbs_diff_report.md
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원_착수보고\RAPA_스마트병원동행 AI앱_전남대학교병원 착수보고_20260525.pdf → Reports\kickoff\RAPA_스마트병원동행 AI앱_전남대학교병원 착수보고_20260525.pdf
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\1. AI 환자동행 서비스 개발 관련 - 병원 도면(외래동선 중심) 정보.zip → Hospital-info\1. AI 환자동행 서비스 개발 관련 - 병원 도면(외래동선 중심) 정보.zip
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\2. AI 환자동행 서비스 개발 관련 - AP 정보.zip → Hospital-info\2. AI 환자동행 서비스 개발 관련 - AP 정보.zip
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\본원 배치도.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\본원 배치도.pdf
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제1동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제1동 1,2층.pdf
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제1주차장.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제1주차장.pdf
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제2동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제2동 1,2층.pdf
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제2주차장.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제2주차장.pdf
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제3동 지하1층~7층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제3동 지하1층~7층.pdf
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제6동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제6동 1,2층.pdf
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제7동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제7동 1,2층.pdf
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제8동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제8동 1,2층.pdf
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\요구사항정의서\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.3.xlsx → Requirements\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.3.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\요구사항정의서\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.4.xlsx → Requirements\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.4.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\요구사항정의서\2-2-1_스마트병원동행AI앱_요구사항_정의서_v0_4_파모즈.xlsx → Requirements\2-2-1_스마트병원동행AI앱_요구사항_정의서_v0_4_파모즈.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\주간보고\2026년\06월\(2-6-1) 스마트병원동행AI앱_6월 4주차 주간보고_20260629.md → Reports\weekly\2026년\06월\(2-6-1) 스마트병원동행AI앱_6월 4주차 주간보고_20260629.md
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\파모즈_내부_산출물\요구사항정의\01_측위엔진_요구사항정의서_v1.1.xlsx → Internal\요구사항정의\01_측위엔진_요구사항정의서_v1.1.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\파모즈_내부_산출물\요구사항정의\01_측위엔진_요구사항정의서_v1.2.xlsx → Internal\요구사항정의\01_측위엔진_요구사항정의서_v1.2.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\파모즈_내부_산출물\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.1.xlsx → Internal\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.1.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\파모즈_내부_산출물\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.2.xlsx → Internal\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.2.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\파모즈_내부_산출물\측위테스트\KakaoTalk_20260621_153658352.png → Internal\측위테스트\KakaoTalk_20260621_153658352.png
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\파모즈_내부_산출물\측위테스트\RAPA_실내측위_진행현황.docx → Internal\측위테스트\RAPA_실내측위_진행현황.docx
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\파모즈_내부_산출물\측위테스트\RAPA_융합측위엔진_기술상세.zip → Internal\측위테스트\RAPA_융합측위엔진_기술상세.zip
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\파모즈_내부_산출물\측위테스트\스마트병원AI_1차_측위테스트_계획.docx → Internal\측위테스트\스마트병원AI_1차_측위테스트_계획.docx
+[2026-07-03T17:41:17]   [DRY] copy: OUTPUT\파모즈_내부_산출물\측위테스트\스마트병원AI_1차_측위테스트_계획.pdf → Internal\측위테스트\스마트병원AI_1차_측위테스트_계획.pdf
+[2026-07-03T17:41:17]   [DRY] copy: Positioning_Research\sensors-25-07291 (1).pdf → _inbox\Positioning_Research\sensors-25-07291 (1).pdf
+[2026-07-03T17:41:17]   [DRY] copy: Positioning_Research\sensors-25-07291.pdf → _inbox\Positioning_Research\sensors-25-07291.pdf
+[2026-07-03T17:41:17]   [DRY] copy: Positioning_Research\short21.pdf → _inbox\Positioning_Research\short21.pdf
+[2026-07-03T17:41:17]   [DRY] copy: Received\(2-3-1) 스마트병원동행AI앱_WBS_20260527_v0.2.xlsx → _inbox\Received\(2-3-1) 스마트병원동행AI앱_WBS_20260527_v0.2.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: Received\스크린샷 2026-05-22 102436.png → _inbox\Received\스크린샷 2026-05-22 102436.png
+[2026-07-03T17:41:17]   [DRY] copy: Received\전남대학교병원_푸시서비스_개발가이드.docx → _inbox\Received\전남대학교병원_푸시서비스_개발가이드.docx
+[2026-07-03T17:41:17]   [DRY] copy: Testing\260528_RAPA_실내측위_리서치.docx → _inbox\Testing\260528_RAPA_실내측위_리서치.docx
+[2026-07-03T17:41:17]   ERROR copy D:\HB\P.RAPA_DEV\Docs\Testing\260528_RAPA_실내측위_리서치.pdf: [Errno 22] Invalid argument
+[2026-07-03T17:41:17]   [DRY] copy: Testing\260528_RAPA_실내측위_리서치_.docx → _inbox\Testing\260528_RAPA_실내측위_리서치_.docx
+[2026-07-03T17:41:17]   [DRY] copy: Testing\260610_실내측위_테스트_결과서_IndoorAtlas.docx → _inbox\Testing\260610_실내측위_테스트_결과서_IndoorAtlas.docx
+[2026-07-03T17:41:17]   [DRY] copy: Testing\260610_실내측위_테스트_결과서_IndoorAtlas.pdf → _inbox\Testing\260610_실내측위_테스트_결과서_IndoorAtlas.pdf
+[2026-07-03T17:41:17]   [DRY] copy: 산출물 폴더\1. 사업\1.3. WBS\스마트병원동행AI앱_WBS_20260526_v0.1.xlsx → _inbox\산출물 폴더\1. 사업\1.3. WBS\스마트병원동행AI앱_WBS_20260526_v0.1.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: 산출물 폴더\1. 사업\1.7. 단계별보고\착수보고\스마트병원동행AI앱_착수보고_0522.pdf → _inbox\산출물 폴더\1. 사업\1.7. 단계별보고\착수보고\스마트병원동행AI앱_착수보고_0522.pdf
+[2026-07-03T17:41:17]   [DRY] copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\레몬헬스케어_보안서약서.pdf → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\레몬헬스케어_보안서약서.pdf
+[2026-07-03T17:41:17]   [DRY] copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교병원_보안서약서.pdf → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교병원_보안서약서.pdf
+[2026-07-03T17:41:17]   [DRY] copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교산학협력단_보안서약서.PDF → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교산학협력단_보안서약서.PDF
+[2026-07-03T17:41:17]   [DRY] copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\파모즈_보안서약서.pdf → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\파모즈_보안서약서.pdf
+[2026-07-03T17:41:17]   [DRY] copy: 산출물 폴더\3. 개발\3-1. 분석\(2-3-1) 스마트병원동행AI앱_WBS_20260615_v0.5.xlsm → _inbox\산출물 폴더\3. 개발\3-1. 분석\(2-3-1) 스마트병원동행AI앱_WBS_20260615_v0.5.xlsm
+[2026-07-03T17:41:17]   [DRY] copy: 산출물 폴더\3. 개발\3-1. 분석\산출물 관리대장_샘플.xlsx → _inbox\산출물 폴더\3. 개발\3-1. 분석\산출물 관리대장_샘플.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: 산출물 폴더\3. 개발\3-1. 분석\스마트병원동행AI앱_요구사항 정의서_v0.1.xlsx → _inbox\산출물 폴더\3. 개발\3-1. 분석\스마트병원동행AI앱_요구사항 정의서_v0.1.xlsx
+[2026-07-03T17:41:17]   [DRY] copy: 산출물 폴더\3. 개발\3-3. 개발\스마트병원동행AI앱_푸시서비스_개발가이드.docx → _inbox\산출물 폴더\3. 개발\3-3. 개발\스마트병원동행AI앱_푸시서비스_개발가이드.docx
+[2026-07-03T17:41:17]   result: copied=181, skipped=25, errors=2
+[2026-07-03T17:41:17] [2/3] wbs_to_md
+[2026-07-03T17:41:17]   run: C:\Users\user\AppData\Local\hermes\hermes-agent\venv\Scripts\python.exe D:\HB\P.RAPA_DEV\_obsidian_vault\Scripts\wbs_to_md.py D:\HB\P.RAPA_DEV\Docs\OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260703_v0.7.xlsm D:\HB\P.RAPA_DEV\_obsidian_vault\WBS D:\HB\P.RAPA_DEV\Docs\OUTPUT\WBS\wbs_diff_10am_vs_5pm.json
+[2026-07-03T17:41:17] [3/3] git commit + push
+[2026-07-03T17:41:17]   push SKIPPED (--skip-push)
+[2026-07-03T17:41:17] === daily sync END ===
+
+[2026-07-03T17:41:29] === daily sync START (dry_run=False, skip_push=False, skip_wbs=False) ===
+[2026-07-03T17:41:29] [1/3] file sync
+[2026-07-03T17:41:33]   copy: Corpus\index.md → Corpus-index.md
+[2026-07-03T17:41:33]   copy: Corpus\index.zip → _inbox\Corpus\index.zip
+[2026-07-03T17:41:33]   copy: Corpus\MOC.md → MOC.md
+[2026-07-03T17:41:33]   copy: Corpus\README.md → Corpus-README.md
+[2026-07-03T17:41:33]   copy: Corpus\docs\superpowers\nas-mcp-deployment.md → Corpus\Docs\superpowers\nas-mcp-deployment.md
+[2026-07-03T17:41:33]   copy: Corpus\docs\superpowers\phase-a-c-followup.md → Corpus\Docs\superpowers\phase-a-c-followup.md
+[2026-07-03T17:41:33]   copy: Corpus\docs\superpowers\plans\2026-05-28-corpus-migration.md → Corpus\Docs\superpowers\plans\2026-05-28-corpus-migration.md
+[2026-07-03T17:41:33]   copy: Corpus\docs\superpowers\specs\2026-05-28-corpus-design.md → Corpus\Docs\superpowers\specs\2026-05-28-corpus-design.md
+[2026-07-03T17:41:33]   copy: Corpus\domain\sdk-개발-사전문의.md → Corpus\Domain\sdk-개발-사전문의.md
+[2026-07-03T17:41:33]   copy: Corpus\domain\위치기반서비스-신고의무.md → Corpus\Domain\위치기반서비스-신고의무.md
+[2026-07-03T17:41:33]   copy: Corpus\evidence\positioning-sota-evidence.md → Corpus\Evidence\positioning-sota-evidence.md
+[2026-07-03T17:41:33]   copy: Corpus\meetings\2026-05-13-개발협의-아젠다-v1.md → Corpus\Meetings\2026-05-13-개발협의-아젠다-v1.md
+[2026-07-03T17:41:33]   copy: Corpus\meetings\2026-05-14-개발협의-아젠다-v2.md → Corpus\Meetings\2026-05-14-개발협의-아젠다-v2.md
+[2026-07-03T17:41:33]   copy: Corpus\meetings\2026-05-18-스마트병원-AI-회의록.md → Corpus\Meetings\2026-05-18-스마트병원-AI-회의록.md
+[2026-07-03T17:41:33]   copy: Corpus\scripts\README.md → _inbox\Corpus\scripts\README.md
+[2026-07-03T17:41:33]   copy: Corpus\scripts\ingest\tests\fixtures\sample.docx → _inbox\Corpus\scripts\ingest\tests\fixtures\sample.docx
+[2026-07-03T17:41:33]   copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0001-test.md → Corpus\Tests\fixtures\mini_vault\decisions\0001-test.md
+[2026-07-03T17:41:33]   copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0002-missing-type.md → Corpus\Tests\fixtures\mini_vault\decisions\0002-missing-type.md
+[2026-07-03T17:41:33]   copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0003-old.md → Corpus\Tests\fixtures\mini_vault\decisions\0003-old.md
+[2026-07-03T17:41:33]   copy: Corpus\scripts\tests\fixtures\mini_vault\decisions\0004-new.md → Corpus\Tests\fixtures\mini_vault\decisions\0004-new.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\CODE_OF_CONDUCT.md → _inbox\Corpus-Site\CODE_OF_CONDUCT.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\DEPLOY.md → _inbox\Corpus-Site\DEPLOY.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\README.md → _inbox\Corpus-Site\README.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\.github\pull_request_template.md → _inbox\Corpus-Site\.github\pull_request_template.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\.github\ISSUE_TEMPLATE\bug_report.md → _inbox\Corpus-Site\.github\ISSUE_TEMPLATE\bug_report.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\.github\ISSUE_TEMPLATE\feature_request.md → _inbox\Corpus-Site\.github\ISSUE_TEMPLATE\feature_request.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\authoring content.md → _inbox\Corpus-Site\docs\authoring content.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\build.md → _inbox\Corpus-Site\docs\build.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\configuration.md → _inbox\Corpus-Site\docs\configuration.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\hosting.md → _inbox\Corpus-Site\docs\hosting.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\index.md → _inbox\Corpus-Site\docs\index.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\layout-components.md → _inbox\Corpus-Site\docs\layout-components.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\layout.md → _inbox\Corpus-Site\docs\layout.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\migrating from Quartz 3.md → _inbox\Corpus-Site\docs\migrating from Quartz 3.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\philosophy.md → _inbox\Corpus-Site\docs\philosophy.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\setting up your GitHub repository.md → _inbox\Corpus-Site\docs\setting up your GitHub repository.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\showcase.md → _inbox\Corpus-Site\docs\showcase.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\upgrading.md → _inbox\Corpus-Site\docs\upgrading.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\advanced\architecture.md → _inbox\Corpus-Site\docs\advanced\architecture.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\advanced\creating components.md → _inbox\Corpus-Site\docs\advanced\creating components.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\advanced\index.md → _inbox\Corpus-Site\docs\advanced\index.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\advanced\making plugins.md → _inbox\Corpus-Site\docs\advanced\making plugins.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\advanced\paths.md → _inbox\Corpus-Site\docs\advanced\paths.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\features\backlinks.md → _inbox\Corpus-Site\docs\features\backlinks.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\features\breadcrumbs.md → _inbox\Corpus-Site\docs\features\breadcrumbs.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\features\callouts.md → _inbox\Corpus-Site\docs\features\callouts.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\features\Citations.md → _inbox\Corpus-Site\docs\features\Citations.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\features\comments.md → _inbox\Corpus-Site\docs\features\comments.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\features\darkmode.md → _inbox\Corpus-Site\docs\features\darkmode.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\features\Docker Support.md → _inbox\Corpus-Site\docs\features\Docker Support.md
+[2026-07-03T17:41:33]   copy: Corpus-Site\docs\features\explorer.md → _inbox\Corpus-Site\docs\features\explorer.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\folder and tag listings.md → _inbox\Corpus-Site\docs\features\folder and tag listings.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\full-text search.md → _inbox\Corpus-Site\docs\features\full-text search.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\graph view.md → _inbox\Corpus-Site\docs\features\graph view.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\i18n.md → _inbox\Corpus-Site\docs\features\i18n.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\index.md → _inbox\Corpus-Site\docs\features\index.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\Latex.md → _inbox\Corpus-Site\docs\features\Latex.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\Mermaid diagrams.md → _inbox\Corpus-Site\docs\features\Mermaid diagrams.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\Obsidian compatibility.md → _inbox\Corpus-Site\docs\features\Obsidian compatibility.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\OxHugo compatibility.md → _inbox\Corpus-Site\docs\features\OxHugo compatibility.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\popover previews.md → _inbox\Corpus-Site\docs\features\popover previews.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\private pages.md → _inbox\Corpus-Site\docs\features\private pages.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\reader mode.md → _inbox\Corpus-Site\docs\features\reader mode.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\recent notes.md → _inbox\Corpus-Site\docs\features\recent notes.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\Roam Research compatibility.md → _inbox\Corpus-Site\docs\features\Roam Research compatibility.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\RSS Feed.md → _inbox\Corpus-Site\docs\features\RSS Feed.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\social images.md → _inbox\Corpus-Site\docs\features\social images.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\SPA Routing.md → _inbox\Corpus-Site\docs\features\SPA Routing.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\syntax highlighting.md → _inbox\Corpus-Site\docs\features\syntax highlighting.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\table of contents.md → _inbox\Corpus-Site\docs\features\table of contents.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\upcoming features.md → _inbox\Corpus-Site\docs\features\upcoming features.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\features\wikilinks.md → _inbox\Corpus-Site\docs\features\wikilinks.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\custom-social-image-preview-dark.png → _inbox\Corpus-Site\docs\images\custom-social-image-preview-dark.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\custom-social-image-preview-light.png → _inbox\Corpus-Site\docs\images\custom-social-image-preview-light.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\dns records.png → _inbox\Corpus-Site\docs\images\dns records.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\giscus-discussion.png → _inbox\Corpus-Site\docs\images\giscus-discussion.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\giscus-example.png → _inbox\Corpus-Site\docs\images\giscus-example.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\giscus-repo.png → _inbox\Corpus-Site\docs\images\giscus-repo.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\giscus-results.png → _inbox\Corpus-Site\docs\images\giscus-results.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\github-init-repo-options.png → _inbox\Corpus-Site\docs\images\github-init-repo-options.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\github-quick-setup.png → _inbox\Corpus-Site\docs\images\github-quick-setup.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\quartz transform pipeline.png → _inbox\Corpus-Site\docs\images\quartz transform pipeline.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\quartz-layout-desktop.png → _inbox\Corpus-Site\docs\images\quartz-layout-desktop.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\quartz-layout-mobile.png → _inbox\Corpus-Site\docs\images\quartz-layout-mobile.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\quartz-layout-tablet.png → _inbox\Corpus-Site\docs\images\quartz-layout-tablet.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\social-image-preview-dark.png → _inbox\Corpus-Site\docs\images\social-image-preview-dark.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\images\social-image-preview-light.png → _inbox\Corpus-Site\docs\images\social-image-preview-light.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\AliasRedirects.md → _inbox\Corpus-Site\docs\plugins\AliasRedirects.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\Assets.md → _inbox\Corpus-Site\docs\plugins\Assets.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\Citations.md → _inbox\Corpus-Site\docs\plugins\Citations.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\CNAME.md → _inbox\Corpus-Site\docs\plugins\CNAME.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\ComponentResources.md → _inbox\Corpus-Site\docs\plugins\ComponentResources.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\ContentIndex.md → _inbox\Corpus-Site\docs\plugins\ContentIndex.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\ContentPage.md → _inbox\Corpus-Site\docs\plugins\ContentPage.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\CrawlLinks.md → _inbox\Corpus-Site\docs\plugins\CrawlLinks.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\CreatedModifiedDate.md → _inbox\Corpus-Site\docs\plugins\CreatedModifiedDate.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\CustomOgImages.md → _inbox\Corpus-Site\docs\plugins\CustomOgImages.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\Description.md → _inbox\Corpus-Site\docs\plugins\Description.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\ExplicitPublish.md → _inbox\Corpus-Site\docs\plugins\ExplicitPublish.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\Favicon.md → _inbox\Corpus-Site\docs\plugins\Favicon.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\FolderPage.md → _inbox\Corpus-Site\docs\plugins\FolderPage.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\Frontmatter.md → _inbox\Corpus-Site\docs\plugins\Frontmatter.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\GitHubFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\GitHubFlavoredMarkdown.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\HardLineBreaks.md → _inbox\Corpus-Site\docs\plugins\HardLineBreaks.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\index.md → _inbox\Corpus-Site\docs\plugins\index.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\Latex.md → _inbox\Corpus-Site\docs\plugins\Latex.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\NotFoundPage.md → _inbox\Corpus-Site\docs\plugins\NotFoundPage.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\ObsidianFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\ObsidianFlavoredMarkdown.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\OxHugoFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\OxHugoFlavoredMarkdown.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\RemoveDrafts.md → _inbox\Corpus-Site\docs\plugins\RemoveDrafts.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\RoamFlavoredMarkdown.md → _inbox\Corpus-Site\docs\plugins\RoamFlavoredMarkdown.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\Static.md → _inbox\Corpus-Site\docs\plugins\Static.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\SyntaxHighlighting.md → _inbox\Corpus-Site\docs\plugins\SyntaxHighlighting.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\TableOfContents.md → _inbox\Corpus-Site\docs\plugins\TableOfContents.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\plugins\TagPage.md → _inbox\Corpus-Site\docs\plugins\TagPage.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\tags\component.md → _inbox\Corpus-Site\docs\tags\component.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\docs\tags\plugin.md → _inbox\Corpus-Site\docs\tags\plugin.md
+[2026-07-03T17:41:34]   copy: Corpus-Site\public\static\icon.png → _inbox\Corpus-Site\public\static\icon.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\public\static\og-image.png → _inbox\Corpus-Site\public\static\og-image.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\quartz\static\icon.png → _inbox\Corpus-Site\quartz\static\icon.png
+[2026-07-03T17:41:34]   copy: Corpus-Site\quartz\static\og-image.png → _inbox\Corpus-Site\quartz\static\og-image.png
+[2026-07-03T17:41:34]   copy: OUTPUT\260616_Todo.xlsx → _inbox\OUTPUT\260616_Todo.xlsx
+[2026-07-03T17:41:34]   copy: OUTPUT\deliverables_external\01_측위엔진_요구사항_정의서.md → Deliverables\external\01_측위엔진_요구사항_정의서.md
+[2026-07-03T17:41:34]   copy: OUTPUT\deliverables_external\02_통합SDK_인터페이스_요구사항_정의서.md → Deliverables\external\02_통합SDK_인터페이스_요구사항_정의서.md
+[2026-07-03T17:41:34]   copy: OUTPUT\deliverables_external\03_측위엔진_아키텍처_문서.md → Deliverables\external\03_측위엔진_아키텍처_문서.md
+[2026-07-03T17:41:34]   copy: OUTPUT\deliverables_external\04_SDK_구성_설계서.md → Deliverables\external\04_SDK_구성_설계서.md
+[2026-07-03T17:41:34]   copy: OUTPUT\deliverables_external\05_데이터흐름_인터페이스_계약서.md → Deliverables\external\05_데이터흐름_인터페이스_계약서.md
+[2026-07-03T17:41:34]   copy: OUTPUT\deliverables_external\06_스캔_기준맵_파이프라인.md → Deliverables\external\06_스캔_기준맵_파이프라인.md
+[2026-07-03T17:41:34]   copy: OUTPUT\deliverables_external\07_빌드배포_CI_환경.md → Deliverables\external\07_빌드배포_CI_환경.md
+[2026-07-03T17:41:34]   copy: OUTPUT\deliverables_external\260618_측위엔진_PoC_정확도측정.md → Deliverables\external\260618_측위엔진_PoC_정확도측정.md
+[2026-07-03T17:41:34]   copy: OUTPUT\deliverables_external\README.md → Deliverables\external\README.md
+[2026-07-03T17:41:34]   copy: OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7.xlsm → WBS-source\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7.xlsm
+[2026-07-03T17:41:34]   copy: OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7_파모즈수정.xlsm → WBS-source\(2-3-1) 스마트병원동행AI앱_WBS_20260630_v0.7_파모즈수정.xlsm
+[2026-07-03T17:41:34]   copy: OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260703_v0.7.xlsm → WBS-source\(2-3-1) 스마트병원동행AI앱_WBS_20260703_v0.7.xlsm
+[2026-07-03T17:41:34]   copy: OUTPUT\WBS\wbs_diff_report.md → WBS-source\wbs_diff_report.md
+[2026-07-03T17:41:34]   copy: OUTPUT\병원_착수보고\RAPA_스마트병원동행 AI앱_전남대학교병원 착수보고_20260525.pdf → Reports\kickoff\RAPA_스마트병원동행 AI앱_전남대학교병원 착수보고_20260525.pdf
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\1. AI 환자동행 서비스 개발 관련 - 병원 도면(외래동선 중심) 정보.zip → Hospital-info\1. AI 환자동행 서비스 개발 관련 - 병원 도면(외래동선 중심) 정보.zip
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\2. AI 환자동행 서비스 개발 관련 - AP 정보.zip → Hospital-info\2. AI 환자동행 서비스 개발 관련 - AP 정보.zip
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\본원 배치도.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\본원 배치도.pdf
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제1동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제1동 1,2층.pdf
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제1주차장.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제1주차장.pdf
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제2동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제2동 1,2층.pdf
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제2주차장.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제2주차장.pdf
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제3동 지하1층~7층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제3동 지하1층~7층.pdf
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제6동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제6동 1,2층.pdf
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제7동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제7동 1,2층.pdf
+[2026-07-03T17:41:34]   copy: OUTPUT\병원정보\병원 도면(외래동선 중심) 정보\제8동 1,2층.pdf → Hospital-info\병원 도면(외래동선 중심) 정보\제8동 1,2층.pdf
+[2026-07-03T17:41:34]   copy: OUTPUT\요구사항정의서\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.3.xlsx → Requirements\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.3.xlsx
+[2026-07-03T17:41:34]   copy: OUTPUT\요구사항정의서\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.4.xlsx → Requirements\(2-2-1) 스마트병원동행AI앱_요구사항 정의서_v0.4.xlsx
+[2026-07-03T17:41:34]   copy: OUTPUT\요구사항정의서\2-2-1_스마트병원동행AI앱_요구사항_정의서_v0_4_파모즈.xlsx → Requirements\2-2-1_스마트병원동행AI앱_요구사항_정의서_v0_4_파모즈.xlsx
+[2026-07-03T17:41:34]   copy: OUTPUT\주간보고\2026년\06월\(2-6-1) 스마트병원동행AI앱_6월 4주차 주간보고_20260629.md → Reports\weekly\2026년\06월\(2-6-1) 스마트병원동행AI앱_6월 4주차 주간보고_20260629.md
+[2026-07-03T17:41:34]   copy: OUTPUT\파모즈_내부_산출물\요구사항정의\01_측위엔진_요구사항정의서_v1.1.xlsx → Internal\요구사항정의\01_측위엔진_요구사항정의서_v1.1.xlsx
+[2026-07-03T17:41:34]   copy: OUTPUT\파모즈_내부_산출물\요구사항정의\01_측위엔진_요구사항정의서_v1.2.xlsx → Internal\요구사항정의\01_측위엔진_요구사항정의서_v1.2.xlsx
+[2026-07-03T17:41:34]   copy: OUTPUT\파모즈_내부_산출물\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.1.xlsx → Internal\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.1.xlsx
+[2026-07-03T17:41:34]   copy: OUTPUT\파모즈_내부_산출물\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.2.xlsx → Internal\요구사항정의\02_통합SDK_인터페이스_요구사항정의서_v1.2.xlsx
+[2026-07-03T17:41:34]   copy: OUTPUT\파모즈_내부_산출물\측위테스트\KakaoTalk_20260621_153658352.png → Internal\측위테스트\KakaoTalk_20260621_153658352.png
+[2026-07-03T17:41:34]   copy: OUTPUT\파모즈_내부_산출물\측위테스트\RAPA_실내측위_진행현황.docx → Internal\측위테스트\RAPA_실내측위_진행현황.docx
+[2026-07-03T17:41:34]   copy: OUTPUT\파모즈_내부_산출물\측위테스트\RAPA_융합측위엔진_기술상세.zip → Internal\측위테스트\RAPA_융합측위엔진_기술상세.zip
+[2026-07-03T17:41:34]   copy: OUTPUT\파모즈_내부_산출물\측위테스트\스마트병원AI_1차_측위테스트_계획.docx → Internal\측위테스트\스마트병원AI_1차_측위테스트_계획.docx
+[2026-07-03T17:41:34]   copy: OUTPUT\파모즈_내부_산출물\측위테스트\스마트병원AI_1차_측위테스트_계획.pdf → Internal\측위테스트\스마트병원AI_1차_측위테스트_계획.pdf
+[2026-07-03T17:41:34]   copy: Positioning_Research\sensors-25-07291 (1).pdf → _inbox\Positioning_Research\sensors-25-07291 (1).pdf
+[2026-07-03T17:41:34]   copy: Positioning_Research\sensors-25-07291.pdf → _inbox\Positioning_Research\sensors-25-07291.pdf
+[2026-07-03T17:41:34]   copy: Positioning_Research\short21.pdf → _inbox\Positioning_Research\short21.pdf
+[2026-07-03T17:41:34]   copy: Received\(2-3-1) 스마트병원동행AI앱_WBS_20260527_v0.2.xlsx → _inbox\Received\(2-3-1) 스마트병원동행AI앱_WBS_20260527_v0.2.xlsx
+[2026-07-03T17:41:34]   copy: Received\스크린샷 2026-05-22 102436.png → _inbox\Received\스크린샷 2026-05-22 102436.png
+[2026-07-03T17:41:34]   copy: Received\전남대학교병원_푸시서비스_개발가이드.docx → _inbox\Received\전남대학교병원_푸시서비스_개발가이드.docx
+[2026-07-03T17:41:34]   copy: Testing\260528_RAPA_실내측위_리서치.docx → _inbox\Testing\260528_RAPA_실내측위_리서치.docx
+[2026-07-03T17:41:34]   copy: Testing\260528_RAPA_실내측위_리서치.pdf → _inbox\Testing\260528_RAPA_실내측위_리서치.pdf
+[2026-07-03T17:41:34]   copy: Testing\260528_RAPA_실내측위_리서치_.docx → _inbox\Testing\260528_RAPA_실내측위_리서치_.docx
+[2026-07-03T17:41:34]   copy: Testing\260610_실내측위_테스트_결과서_IndoorAtlas.docx → _inbox\Testing\260610_실내측위_테스트_결과서_IndoorAtlas.docx
+[2026-07-03T17:41:34]   copy: Testing\260610_실내측위_테스트_결과서_IndoorAtlas.pdf → _inbox\Testing\260610_실내측위_테스트_결과서_IndoorAtlas.pdf
+[2026-07-03T17:41:34]   copy: 산출물 폴더\1. 사업\1.3. WBS\스마트병원동행AI앱_WBS_20260526_v0.1.xlsx → _inbox\산출물 폴더\1. 사업\1.3. WBS\스마트병원동행AI앱_WBS_20260526_v0.1.xlsx
+[2026-07-03T17:41:34]   copy: 산출물 폴더\1. 사업\1.7. 단계별보고\착수보고\스마트병원동행AI앱_착수보고_0522.pdf → _inbox\산출물 폴더\1. 사업\1.7. 단계별보고\착수보고\스마트병원동행AI앱_착수보고_0522.pdf
+[2026-07-03T17:41:34]   copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\레몬헬스케어_보안서약서.pdf → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\레몬헬스케어_보안서약서.pdf
+[2026-07-03T17:41:34]   copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교병원_보안서약서.pdf → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교병원_보안서약서.pdf
+[2026-07-03T17:41:34]   copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교산학협력단_보안서약서.PDF → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\전남대학교산학협력단_보안서약서.PDF
+[2026-07-03T17:41:35]   copy: 산출물 폴더\1. 사업\1.8. 인력, 자원관리\파모즈_보안서약서.pdf → _inbox\산출물 폴더\1. 사업\1.8. 인력, 자원관리\파모즈_보안서약서.pdf
+[2026-07-03T17:41:35]   copy: 산출물 폴더\3. 개발\3-1. 분석\(2-3-1) 스마트병원동행AI앱_WBS_20260615_v0.5.xlsm → _inbox\산출물 폴더\3. 개발\3-1. 분석\(2-3-1) 스마트병원동행AI앱_WBS_20260615_v0.5.xlsm
+[2026-07-03T17:41:35]   copy: 산출물 폴더\3. 개발\3-1. 분석\산출물 관리대장_샘플.xlsx → _inbox\산출물 폴더\3. 개발\3-1. 분석\산출물 관리대장_샘플.xlsx
+[2026-07-03T17:41:35]   copy: 산출물 폴더\3. 개발\3-1. 분석\스마트병원동행AI앱_요구사항 정의서_v0.1.xlsx → _inbox\산출물 폴더\3. 개발\3-1. 분석\스마트병원동행AI앱_요구사항 정의서_v0.1.xlsx
+[2026-07-03T17:41:35]   copy: 산출물 폴더\3. 개발\3-3. 개발\스마트병원동행AI앱_푸시서비스_개발가이드.docx → _inbox\산출물 폴더\3. 개발\3-3. 개발\스마트병원동행AI앱_푸시서비스_개발가이드.docx
+[2026-07-03T17:41:35]   result: copied=181, skipped=25, errors=0
+[2026-07-03T17:41:35] [2/3] wbs_to_md
+[2026-07-03T17:41:35]   run: C:\Users\user\AppData\Local\hermes\hermes-agent\venv\Scripts\python.exe D:\HB\P.RAPA_DEV\_obsidian_vault\Scripts\wbs_to_md.py D:\HB\P.RAPA_DEV\Docs\OUTPUT\WBS\(2-3-1) 스마트병원동행AI앱_WBS_20260703_v0.7.xlsm D:\HB\P.RAPA_DEV\_obsidian_vault\WBS D:\HB\P.RAPA_DEV\Docs\OUTPUT\WBS\wbs_diff_10am_vs_5pm.json
+[2026-07-03T17:41:36]   wbs_to_md OK: OK: D:\HB\P.RAPA_DEV\_obsidian_vault\WBS
+  task 수: 98
+  7월 내 마감: 14건
+[2026-07-03T17:41:36] [3/3] git commit + push
