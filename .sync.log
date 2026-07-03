@@ -1286,3 +1286,36 @@
 [2026-07-03T17:58:07] [4/5] Chroma index
 [2026-07-03T17:58:07]   indexed=0
 [2026-07-03T17:58:07] [5/5] git commit + push
+[2026-07-03T17:58:11]   push OK
+[2026-07-03T17:58:11] === intelligent sync END ===
+
+[2026-07-03T17:59:10] === intelligent sync START (dry=False, skip_push=True, rebuild=False) ===
+[2026-07-03T17:59:14]   scanned 207 files in Docs/
+[2026-07-03T17:59:14] [1/5] file diff + copy
+[2026-07-03T17:59:15]   copied=1, skipped=206, errors=0
+[2026-07-03T17:59:15] [2/5] wbs_to_md
+[2026-07-03T17:59:15] [3/5] LLM summarize + tag
+[2026-07-03T17:59:15]   1 .md files to summarize
+[2026-07-03T17:59:19]   summarized=1
+[2026-07-03T17:59:19] [4/5] Chroma index
+[2026-07-03T17:59:21]   indexed=1
+[2026-07-03T17:59:21] [5/5] git commit + push
+[2026-07-03T17:59:21]   push SKIPPED
+[2026-07-03T17:59:21] === intelligent sync END ===
+
+[2026-07-03T18:01:41] WARN: OPENROUTER_API_KEY not set, LLM skip
+[2026-07-03T18:02:11] === intelligent sync START (dry=True, skip_push=True, rebuild=False) ===
+[2026-07-03T18:02:16]   scanned 206 files in Docs/
+[2026-07-03T18:02:16] [1/5] file diff + copy
+[2026-07-03T18:02:16]   copied=0, skipped=206, errors=0
+[2026-07-03T18:02:16] [2/5] wbs_to_md
+[2026-07-03T18:02:16] [3/5] LLM summarize + tag
+[2026-07-03T18:02:16]   0 .md files to summarize
+[2026-07-03T18:02:16]   summarized=0
+[2026-07-03T18:02:16] [4/5] Chroma index
+[2026-07-03T18:02:16]   indexed=0
+[2026-07-03T18:02:16] [5/5] git commit + push
+[2026-07-03T18:02:16]   push SKIPPED
+[2026-07-03T18:02:16] === intelligent sync END ===
+
+[2026-07-03T18:02:17] WARN: OPENROUTER_API_KEY not set, LLM skip
