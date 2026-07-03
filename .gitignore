@@ -4,3 +4,9 @@
 .trash/
 .DS_Store
 Thumbs.db
+# Curator: vector DB는 로컬만, git 제외
+_curator/chroma/
+_curator/embeddings_cache/
+_curator/.index_state.json
+# Summaries는 vault에 포함 (git tracked)
+# _summaries/  ← 주석 (포함)

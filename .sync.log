@@ -1214,3 +1214,75 @@
   task 수: 98
   7월 내 마감: 14건
 [2026-07-03T17:41:36] [3/3] git commit + push
+[2026-07-03T17:42:02]   push OK: OK
+[2026-07-03T17:42:02] === daily sync END ===
+
+[2026-07-03T17:43:39]   [DRY] copy: Corpus\MOC.md → MOC.md
+[2026-07-03T17:43:39]   [DRY] copy: Corpus\README.md → Corpus-README.md
+[2026-07-03T17:43:39]   [DRY] copy: Corpus\decisions\0001-test.md → ADR\0001-test.md
+[2026-07-03T17:43:39]   [DRY] copy: Corpus\specs\system-arch.md → Specs\system-arch.md
+[2026-07-03T17:43:39]   [DRY] copy: OUTPUT\1.3_deliverables_draft\test.md → Deliverables\1.3\test.md
+[2026-07-03T17:43:39]   [DRY] copy: OUTPUT\WBS\fake.xlsm → WBS-source\fake.xlsm
+[2026-07-03T17:43:39]   [DRY] copy: OUTPUT\병원_착수보고\kickoff.md → Reports\kickoff\kickoff.md
+[2026-07-03T17:43:39]   [DRY] copy: OUTPUT\병원정보\info.md → Hospital-info\info.md
+[2026-07-03T17:43:39]   [DRY] copy: OUTPUT\요구사항정의서\req.md → Requirements\req.md
+[2026-07-03T17:43:39]   [DRY] copy: OUTPUT\월간보고\June.md → Reports\monthly\June.md
+[2026-07-03T17:43:39]   [DRY] copy: OUTPUT\주간보고\2026-W1.md → Reports\weekly\2026-W1.md
+[2026-07-03T17:43:39]   [DRY] copy: OUTPUT\파모즈_내부_산출물\internal.md → Internal\internal.md
+[2026-07-03T17:43:39]   [DRY] copy: OUTPUT\회의록\0518.md → Meetings\0518.md
+[2026-07-03T17:43:39]   [DRY] copy: tmp.tmp.drivedownload\dl.md → _inbox\tmp.tmp.drivedownload\dl.md
+[2026-07-03T17:43:39]   [DRY] copy: 산출물 폴더\unmapped.md → _inbox\산출물 폴더\unmapped.md
+[2026-07-03T17:43:39]   [DRY] would commit + push
+[2026-07-03T17:51:21] === intelligent sync START (dry=True, skip_push=True, rebuild=False) ===
+[2026-07-03T17:51:25]   scanned 206 files in Docs/
+[2026-07-03T17:51:25] [1/5] file diff + copy
+[2026-07-03T17:51:27]   copied=0, skipped=206, errors=0
+[2026-07-03T17:51:27] [2/5] wbs_to_md
+[2026-07-03T17:51:27] [3/5] LLM summarize + tag
+[2026-07-03T17:51:27]   0 .md files to summarize
+[2026-07-03T17:51:27]   summarized=0
+[2026-07-03T17:51:27] [4/5] Chroma index
+[2026-07-03T17:51:27]   indexed=0
+[2026-07-03T17:51:27] [5/5] git commit + push
+[2026-07-03T17:51:27]   push SKIPPED
+[2026-07-03T17:51:27] === intelligent sync END ===
+
+[2026-07-03T17:52:19] === intelligent sync START (dry=False, skip_push=True, rebuild=False) ===
+[2026-07-03T17:52:24]   scanned 207 files in Docs/
+[2026-07-03T17:52:24] [1/5] file diff + copy
+[2026-07-03T17:52:24]   copied=1, skipped=206, errors=0
+[2026-07-03T17:52:24] [2/5] wbs_to_md
+[2026-07-03T17:52:24] [3/5] LLM summarize + tag
+[2026-07-03T17:52:24]   1 .md files to summarize
+[2026-07-03T17:53:20] === intelligent sync START (dry=False, skip_push=True, rebuild=False) ===
+[2026-07-03T17:53:25]   scanned 207 files in Docs/
+[2026-07-03T17:53:25] [1/5] file diff + copy
+[2026-07-03T17:53:26]   copied=1, skipped=206, errors=0
+[2026-07-03T17:53:26] [2/5] wbs_to_md
+[2026-07-03T17:53:26] [3/5] LLM summarize + tag
+[2026-07-03T17:53:26]   1 .md files to summarize
+[2026-07-03T17:57:31] === intelligent sync START (dry=False, skip_push=True, rebuild=False) ===
+[2026-07-03T17:57:35]   scanned 207 files in Docs/
+[2026-07-03T17:57:35] [1/5] file diff + copy
+[2026-07-03T17:57:36]   copied=1, skipped=206, errors=0
+[2026-07-03T17:57:36] [2/5] wbs_to_md
+[2026-07-03T17:57:36] [3/5] LLM summarize + tag
+[2026-07-03T17:57:36]   1 .md files to summarize
+[2026-07-03T17:57:39]   summarized=1
+[2026-07-03T17:57:39] [4/5] Chroma index
+[2026-07-03T17:57:41]   indexed=1
+[2026-07-03T17:57:41] [5/5] git commit + push
+[2026-07-03T17:57:41]   push SKIPPED
+[2026-07-03T17:57:41] === intelligent sync END ===
+
+[2026-07-03T17:58:02] === intelligent sync START (dry=False, skip_push=False, rebuild=False) ===
+[2026-07-03T17:58:06]   scanned 206 files in Docs/
+[2026-07-03T17:58:06] [1/5] file diff + copy
+[2026-07-03T17:58:07]   copied=0, skipped=206, errors=0
+[2026-07-03T17:58:07] [2/5] wbs_to_md
+[2026-07-03T17:58:07] [3/5] LLM summarize + tag
+[2026-07-03T17:58:07]   0 .md files to summarize
+[2026-07-03T17:58:07]   summarized=0
+[2026-07-03T17:58:07] [4/5] Chroma index
+[2026-07-03T17:58:07]   indexed=0
+[2026-07-03T17:58:07] [5/5] git commit + push
