@@ -296,3 +296,38 @@ def test_module_importable():
     assert hasattr(sync_intelligent, "sync_intelligent")
     assert hasattr(sync_intelligent, "summarize_with_llm")
     assert hasattr(sync_intelligent, "chroma_index_file")
+
+
+# ──────────────────────────────────────
+# GanttProject .gan (Stage 2.5 in pipeline)
+# ──────────────────────────────────────
+class TestGanGeneration:
+    def test_gan_script_exists(self):
+        path = Path(r"D:/HB/P.RAPA_DEV/_obsidian_vault/Scripts/wbs_to_gan.py")
+        assert path.exists(), f"missing: {path}"
+
+    def test_gan_output_valid_zip(self):
+        import zipfile
+        out = Path(r"D:/HB/P.RAPA_DEV/_obsidian_vault/Attachments/RAPA_파모즈_v0.7.gan")
+        if not out.exists():
+            pytest.skip("gan not yet generated (run sync_intelligent first)")
+        assert zipfile.is_zipfile(out)
+        with zipfile.ZipFile(out) as z:
+            names = z.namelist()
+            assert "project.xml" in names
+            xml = z.read("project.xml").decode("utf-8")
+            assert "<project" in xml
+            assert "<task>" in xml
+
+    def test_gan_task_count_matches_wbs(self):
+        import zipfile
+        out = Path(r"D:/HB/P.RAPA_DEV/_obsidian_vault/Attachments/RAPA_파모즈_v0.7.gan")
+        if not out.exists():
+            pytest.skip("gan not yet generated")
+        with zipfile.ZipFile(out) as z:
+            xml = z.read("project.xml").decode("utf-8")
+        task_count = xml.count("<task>")
+        # WBS has 69 L3 tasks (level 3 with start+end)
+        # Allow some slack (69 ± 5)
+        assert 60 <= task_count <= 80, \
+            f"task count {task_count} out of expected range"

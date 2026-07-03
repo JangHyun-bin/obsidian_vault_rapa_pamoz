@@ -348,6 +348,15 @@ def sync_intelligent(dry_run=False, skip_push=False, rebuild_index=False):
         if diff.exists():
             cmd.append(str(diff))
         subprocess.run(cmd, capture_output=True, text=True)
+        # Stage 2.5: GanttProject .gan 자동 갱신
+        gan_script = VAULT / "Scripts" / "wbs_to_gan.py"
+        if gan_script.exists():
+            res = subprocess.run([sys.executable, str(gan_script)],
+                                 capture_output=True, text=True)
+            if res.returncode == 0:
+                log(f"  .gan 갱신: {res.stdout.strip()}")
+            else:
+                log(f"  .gan 갱신 실패: {res.stderr[:200]}")
 
     log("[3/5] LLM summarize + tag")
     md_changed = [(s, d, h) for s, d, h in changed_files

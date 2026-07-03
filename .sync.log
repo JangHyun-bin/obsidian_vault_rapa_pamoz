@@ -1364,3 +1364,48 @@
 [2026-07-03T18:16:16] === intelligent sync END ===
 
 [2026-07-03T18:16:18] WARN: OPENROUTER_API_KEY not set, LLM skip
+[2026-07-03T18:19:32] === intelligent sync START (dry=True, skip_push=True, rebuild=False) ===
+[2026-07-03T18:19:37]   scanned 206 files in Docs/
+[2026-07-03T18:19:37] [1/5] file diff + copy
+[2026-07-03T18:19:41]   copied=0, skipped=206, errors=0
+[2026-07-03T18:19:41] [2/5] wbs_to_md
+[2026-07-03T18:19:41] [3/5] LLM summarize + tag
+[2026-07-03T18:19:41]   0 .md files to summarize
+[2026-07-03T18:19:41]   summarized=0
+[2026-07-03T18:19:41] [4/5] Chroma index
+[2026-07-03T18:19:41]   indexed=0
+[2026-07-03T18:19:41] [5/5] git commit + push
+[2026-07-03T18:19:41]   push SKIPPED
+[2026-07-03T18:19:41] === intelligent sync END ===
+
+[2026-07-03T18:19:42] WARN: OPENROUTER_API_KEY not set, LLM skip
+[2026-07-03T18:19:58] === intelligent sync START (dry=True, skip_push=True, rebuild=False) ===
+[2026-07-03T18:20:02]   scanned 206 files in Docs/
+[2026-07-03T18:20:02] [1/5] file diff + copy
+[2026-07-03T18:20:02]   copied=0, skipped=206, errors=0
+[2026-07-03T18:20:02] [2/5] wbs_to_md
+[2026-07-03T18:20:02] [3/5] LLM summarize + tag
+[2026-07-03T18:20:02]   0 .md files to summarize
+[2026-07-03T18:20:02]   summarized=0
+[2026-07-03T18:20:02] [4/5] Chroma index
+[2026-07-03T18:20:02]   indexed=0
+[2026-07-03T18:20:02] [5/5] git commit + push
+[2026-07-03T18:20:02]   push SKIPPED
+[2026-07-03T18:20:02] === intelligent sync END ===
+
+[2026-07-03T18:20:04] WARN: OPENROUTER_API_KEY not set, LLM skip
+[2026-07-03T18:20:44] === intelligent sync START (dry=True, skip_push=True, rebuild=False) ===
+[2026-07-03T18:20:48]   scanned 206 files in Docs/
+[2026-07-03T18:20:48] [1/5] file diff + copy
+[2026-07-03T18:20:48]   copied=0, skipped=206, errors=0
+[2026-07-03T18:20:48] [2/5] wbs_to_md
+[2026-07-03T18:20:48] [3/5] LLM summarize + tag
+[2026-07-03T18:20:48]   0 .md files to summarize
+[2026-07-03T18:20:48]   summarized=0
+[2026-07-03T18:20:48] [4/5] Chroma index
+[2026-07-03T18:20:48]   indexed=0
+[2026-07-03T18:20:48] [5/5] git commit + push
+[2026-07-03T18:20:48]   push SKIPPED
+[2026-07-03T18:20:48] === intelligent sync END ===
+
+[2026-07-03T18:20:50] WARN: OPENROUTER_API_KEY not set, LLM skip
