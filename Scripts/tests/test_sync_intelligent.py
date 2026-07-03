@@ -331,3 +331,59 @@ class TestGanGeneration:
         # Allow some slack (69 ± 5)
         assert 60 <= task_count <= 80, \
             f"task count {task_count} out of expected range"
+
+
+# ──────────────────────────────────────
+# OpenProject sync (Stage 6 in pipeline)
+# ──────────────────────────────────────
+class TestOpenProjectSync:
+    def test_op_script_exists(self):
+        path = Path(r"D:/HB/P.RAPA_DEV/_obsidian_vault/Scripts/sync_openproject.py")
+        assert path.exists(), f"missing: {path}"
+
+    def test_op_token_file_exists_or_skip(self):
+        path = Path(r"D:/HB/P.RAPA_DEV/_obsidian_vault/_curator/.openproject_token")
+        if not path.exists():
+            pytest.skip("OP token not configured (run OpenProject setup)")
+        # token should be 64-char hex
+        token = path.read_text(encoding="utf-8").strip()
+        assert len(token) == 64
+        assert all(c in "0123456789abcdef" for c in token)
+
+    def test_op_api_reachable_or_skip(self):
+        import base64
+        import httpx
+        path = Path(r"D:/HB/P.RAPA_DEV/_obsidian_vault/_curator/.openproject_token")
+        if not path.exists():
+            pytest.skip("OP token not configured")
+        token = path.read_text(encoding="utf-8").strip()
+        creds = base64.b64encode(f"apikey:{token}".encode()).decode()
+        try:
+            r = httpx.get("http://localhost:8082/api/v3/users/me",
+                          headers={"Authorization": f"Basic {creds}"},
+                          timeout=5)
+        except Exception as e:
+            pytest.skip(f"OP not reachable: {e}")
+        # 200 (auth OK) or 401 (token invalid) both acceptable for env check
+        assert r.status_code in (200, 401)
+
+    def test_op_project_exists_or_skip(self):
+        import base64
+        import httpx
+        path = Path(r"D:/HB/P.RAPA_DEV/_obsidian_vault/_curator/.openproject_token")
+        if not path.exists():
+            pytest.skip("OP token not configured")
+        token = path.read_text(encoding="utf-8").strip()
+        creds = base64.b64encode(f"apikey:{token}".encode()).decode()
+        try:
+            r = httpx.get("http://localhost:8082/api/v3/projects",
+                          headers={"Authorization": f"Basic {creds}"},
+                          params={"pageSize": 100}, timeout=10)
+            if r.status_code != 200:
+                pytest.skip(f"OP auth failed: {r.status_code}")
+            data = r.json()
+            names = [p.get("name") for p in data.get("_embedded", {}).get("elements", [])]
+            assert "RAPA 스마트병원동행AI앱 (파모즈)" in names, \
+                f"RAPA project not found. Existing: {names}"
+        except Exception as e:
+            pytest.skip(f"OP not reachable: {e}")

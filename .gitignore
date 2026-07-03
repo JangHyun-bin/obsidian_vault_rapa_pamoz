@@ -13,3 +13,4 @@ __pycache__/
 *.pyc
 # Summaries는 vault에 포함 (git tracked)
 # _summaries/  ← 주석 (포함)
+_curator/.openproject_token

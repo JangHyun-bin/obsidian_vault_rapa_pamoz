@@ -1,0 +1,34 @@
+# OpenProject Community Edition (self-hosted, free, AGPL)
+# https://www.openproject.org/docs/installation-and-operations/installation/docker/
+#
+# Quick start (community, 1-command):
+#   docker run -d -p 8080:80 -e OPENPROJECT_SECRET_KEY_BASE=$(openssl rand -hex 64) \\
+#     -e OPENPROJECT_HOST__NAME=localhost:8080 openproject/community:13
+#
+# Or docker compose (recommended for persistence):
+
+services:
+  openproject:
+    image: openproject/community:14
+    restart: unless-stopped
+    ports:
+      - "8080:80"   # Web UI
+    environment:
+      OPENPROJECT_HOST__NAME: "localhost:8080"
+      OPENPROJECT_SECRET_KEY_BASE: "${SECRET_KEY_BASE:-CHANGEME_run_openssl_rand_hex_64}"
+      OPENPROJECT_HTTPS: "false"
+      # Database (Postgres + memcached packaged in community image for dev)
+      OPENPROJECT_DB_ENCODING: "unicode"
+    volumes:
+      - openproject_data:/var/openproject/assets
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health_checks/default"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    # memcached is built into the community image
+    # For production, separate postgres + memcached services
+
+volumes:
+  openproject_data:
+    name: openproject_data

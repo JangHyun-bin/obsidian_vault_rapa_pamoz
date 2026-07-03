@@ -420,6 +420,24 @@ def sync_intelligent(dry_run=False, skip_push=False, rebuild_index=False):
     else:
         log("  push SKIPPED")
 
+    log("[6/6] OpenProject RAPA sync (WBS 98 task → OP work packages)")
+    op_script = VAULT / "Scripts" / "sync_openproject.py"
+    if op_script.exists() and not dry_run:
+        res = subprocess.run(
+            [sys.executable, str(op_script), "--rebuild"],
+            capture_output=True, text=True, timeout=600,
+        )
+        if res.returncode == 0:
+            # 마지막 줄만 추출
+            last_line = res.stdout.strip().splitlines()[-1] if res.stdout.strip() else ""
+            log(f"  OP sync OK: {last_line}")
+        else:
+            log(f"  OP sync 실패: {res.stderr[-200:][:200]}")
+    elif not op_script.exists():
+        log("  OP script 없음, skip")
+    else:
+        log("  OP sync SKIPPED (dry-run)")
+
     log("=== intelligent sync END ===\n")
 
 

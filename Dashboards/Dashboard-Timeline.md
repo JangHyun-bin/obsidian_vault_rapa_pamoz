@@ -96,9 +96,25 @@ flowchart LR
 - **1.3.2 LiDAR** (Linear RHIZOME-104)는 WBS 1.3.1 시스템구성설계와 다른 작업. 잘못 매핑됨.
 
 ## 🔗 관련
-
+## 🔗 관련
 - [[README|Home / MOC]]
 - [[Dashboards/Dashboard-Status|Status Dashboard]]
 - [[WBS/WBS-july|7월 임박]]
 - [[Linear-Issues|Linear 이슈 노트]]
 - GitHub: https://github.com/JangHyun-bin/obsidian_vault_rapa_pamoz
+
+## 🌐 외부 Timeline (실시간)
+
+**OpenProject** (Gantt, Calendar, Work packages):
+- 프로젝트: http://localhost:8082/projects/rapa-smart-hospital-pamoz
+- Gantt view: http://localhost:8082/projects/rapa-smart-hospital-pamoz/work_packages?view=gantt
+- 98 work packages (L1 4 + L2 25 + L3 69, startDate/dueDate 기반)
+- OpenProject API v3 (Basic apikey auth)
+- 동기화: `Scripts/sync_openproject.py` (cron 자동 갱신)
+
+**Linear** (실시간 task 관리):
+- 프로젝트: RAPA 스마트병원동행AI앱 (파모즈) (RHIZOME-153~163)
+- 4.3.x 잘못 매핑된 이슈는 별도 정리 필요
+
+**GanttProject** (인터랙티브 + PNG export):
+- 위치: `Attachments/RAPA_파모즈_v0.7.gan`
