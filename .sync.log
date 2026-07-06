@@ -1502,3 +1502,11 @@
 [2026-07-06T09:01:00] [4/5] Chroma index
 [2026-07-06T09:01:00]   indexed=0
 [2026-07-06T09:01:00] [5/5] git commit + push
+[2026-07-06T09:01:04]   push OK
+[2026-07-06T09:01:04] [6/6] OpenProject RAPA sync (WBS 98 task → OP work packages)
+[2026-07-06T09:01:04]   OP sync 실패: Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.RemoteProtocolError: Server disconnected without sending a response.
+
+[2026-07-06T09:01:04] === intelligent sync END ===
+
