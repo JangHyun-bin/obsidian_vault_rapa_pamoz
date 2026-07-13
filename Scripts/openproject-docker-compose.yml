@@ -14,7 +14,7 @@ services:
     ports:
       - "8080:80"   # Web UI
     environment:
-      OPENPROJECT_HOST__NAME: "localhost:8080"
+      OPENPROJECT_HOST__NAME: "desktop-eo6tmc1.tail569454.ts.net,100.65.38.19:8082"
       OPENPROJECT_SECRET_KEY_BASE: "${SECRET_KEY_BASE:-CHANGEME_run_openssl_rand_hex_64}"
       OPENPROJECT_HTTPS: "false"
       # Database (Postgres + memcached packaged in community image for dev)

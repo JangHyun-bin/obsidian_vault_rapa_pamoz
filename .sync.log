@@ -1510,3 +1510,32 @@ httpx.RemoteProtocolError: Server disconnected without sending a response.
 
 [2026-07-06T09:01:04] === intelligent sync END ===
 
+[2026-07-06T14:09:54] === intelligent sync START (dry=True, skip_push=True, rebuild=False) ===
+[2026-07-06T14:10:01]   scanned 206 files in Docs/
+[2026-07-06T14:10:01] [1/5] file diff + copy
+[2026-07-06T14:10:04]   copied=0, skipped=206, errors=0
+[2026-07-06T14:10:04] [2/5] wbs_to_md
+[2026-07-06T14:10:04] [3/5] LLM summarize + tag
+[2026-07-06T14:10:04]   0 .md files to summarize
+[2026-07-06T14:10:04]   summarized=0
+[2026-07-06T14:10:04] [4/5] Chroma index
+[2026-07-06T14:10:04]   indexed=0
+[2026-07-06T14:10:04] [5/5] git commit + push
+[2026-07-06T14:10:04]   push SKIPPED
+[2026-07-06T14:10:04] [6/6] OpenProject RAPA sync (WBS 98 task → OP work packages)
+[2026-07-06T14:10:04]   OP sync SKIPPED (dry-run)
+[2026-07-06T14:10:04] === intelligent sync END ===
+
+[2026-07-06T14:10:05] WARN: OPENROUTER_API_KEY not set, LLM skip
+[2026-07-13T09:01:15] === intelligent sync START (dry=False, skip_push=False, rebuild=False) ===
+[2026-07-13T09:01:27]   scanned 208 files in Docs/
+[2026-07-13T09:01:27] [1/5] file diff + copy
+[2026-07-13T09:01:32]   copied=2, skipped=206, errors=0
+[2026-07-13T09:01:32] [2/5] wbs_to_md
+[2026-07-13T09:01:34]   .gan 갱신: saved: D:\HB\P.RAPA_DEV\_obsidian_vault\Attachments\RAPA_파모즈_v0.7.gan (2,993 bytes, 69 tasks, 44 deps)
+[2026-07-13T09:01:34] [3/5] LLM summarize + tag
+[2026-07-13T09:01:34]   0 .md files to summarize
+[2026-07-13T09:01:34]   summarized=0
+[2026-07-13T09:01:34] [4/5] Chroma index
+[2026-07-13T09:01:38]   indexed=2
+[2026-07-13T09:01:38] [5/5] git commit + push
