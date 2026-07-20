@@ -1539,3 +1539,23 @@ httpx.RemoteProtocolError: Server disconnected without sending a response.
 [2026-07-13T09:01:34] [4/5] Chroma index
 [2026-07-13T09:01:38]   indexed=2
 [2026-07-13T09:01:38] [5/5] git commit + push
+[2026-07-13T09:01:46]   push OK
+[2026-07-13T09:01:46] [6/6] OpenProject RAPA sync (WBS 98 task → OP work packages)
+[2026-07-13T09:01:54]   OP sync 실패: f)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://localhost:8082/api/v3/work_packages/64'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+
+[2026-07-13T09:01:54] === intelligent sync END ===
+
+[2026-07-20T09:01:22] === intelligent sync START (dry=False, skip_push=False, rebuild=False) ===
+[2026-07-20T09:01:36]   scanned 241 files in Docs/
+[2026-07-20T09:01:36] [1/5] file diff + copy
+[2026-07-20T09:01:41]   copied=33, skipped=208, errors=0
+[2026-07-20T09:01:41] [2/5] wbs_to_md
+[2026-07-20T09:01:43]   .gan 갱신: saved: D:\HB\P.RAPA_DEV\_obsidian_vault\Attachments\RAPA_파모즈_v0.7.gan (2,993 bytes, 69 tasks, 44 deps)
+[2026-07-20T09:01:43] [3/5] LLM summarize + tag
+[2026-07-20T09:01:43]   13 .md files to summarize
+[2026-07-20T09:02:17]   summarized=13
+[2026-07-20T09:02:17] [4/5] Chroma index
+[2026-07-20T09:02:32]   indexed=33
+[2026-07-20T09:02:32] [5/5] git commit + push
